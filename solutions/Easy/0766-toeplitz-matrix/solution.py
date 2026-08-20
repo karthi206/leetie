@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Matrix
 # Link     : https://leetcode.com/problems/toeplitz-matrix/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19524000 (beats 0%)
+# Runtime  : 1 ms (beats 41%)
+# Memory   : 19312000 (beats 26%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
