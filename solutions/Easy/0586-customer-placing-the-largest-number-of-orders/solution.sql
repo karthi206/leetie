@@ -1,0 +1,17 @@
+-- ──────────────────────────────────────────────────
+-- Problem  : 586. Customer Placing the Largest Number of Orders
+-- Difficulty: Easy
+-- Tags     : Database
+-- Link     : https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/
+-- Runtime  : 512 ms (beats 48%)
+-- Memory   : 0B (beats 100%)
+-- Language : mysql
+-- Copyright: (c) 2026 karthi206. All rights reserved.
+-- Synced by: leetie
+-- ──────────────────────────────────────────────────
+
+SELECT customer_number
+FROM Orders 
+GROUP BY customer_number
+ORDER BY COUNT(customer_number) DESC
+LIMIT 1;
