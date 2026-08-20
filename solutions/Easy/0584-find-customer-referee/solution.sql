@@ -3,7 +3,7 @@
 -- Difficulty: Easy
 -- Tags     : Database
 -- Link     : https://leetcode.com/problems/find-customer-referee/
--- Runtime  : 509 ms (beats 61%)
+-- Runtime  : 522 ms (beats 53%)
 -- Memory   : 0B (beats 100%)
 -- Language : mysql
 -- Copyright: (c) 2026 karthi206. All rights reserved.
