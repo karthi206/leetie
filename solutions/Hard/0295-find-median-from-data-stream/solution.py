@@ -3,19 +3,24 @@
 # Difficulty: Hard
 # Tags     : Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream
 # Link     : https://leetcode.com/problems/find-median-from-data-stream/
-# Runtime  : 0 ms (beats 100%)
-# Memory   : 19268000 (beats 92%)
+# Runtime  : 268 ms (beats 13%)
+# Memory   : 42356000 (beats 30%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
 # ──────────────────────────────────────────────────
 
-class Solution:
-    def hIndex(self, citations: List[int]) -> int:
-        n = len(citations)
-        citations.sort()
+from sortedcontainers import SortedList
+class MedianFinder:
 
-        for i,v in enumerate(citations):
-            if n - i <= v:
-                return n - i
-        return 0
+    def __init__(self):
+        self.arr = SortedList()
+
+    def addNum(self, num: int) -> None:
+        self.arr.add(num)
+
+    def findMedian(self) -> float:
+        n = len(self.arr)
+        if n % 2 == 1:
+            return self.arr[n//2]
+        return (self.arr[n//2] + self.arr[n//2-1]) / 2
