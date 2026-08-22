@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Memoization, Matrix, Directed Acyclic Graph
 # Link     : https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
-# Runtime  : 109 ms (beats 79%)
-# Memory   : 21952000 (beats 69%)
+# Runtime  : 0 ms (beats 0%)
+# Memory   : 19120000 (beats 0%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
