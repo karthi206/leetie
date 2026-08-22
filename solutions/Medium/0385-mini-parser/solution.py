@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : String, Stack, Depth-First Search
 # Link     : https://leetcode.com/problems/mini-parser/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19420000 (beats 0%)
+# Runtime  : 23 ms (beats 5%)
+# Memory   : 34432000 (beats 5%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
