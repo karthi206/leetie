@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort
 # Link     : https://leetcode.com/problems/minimum-height-trees/
-# Runtime  : 47 ms (beats 63%)
-# Memory   : 27872000 (beats 70%)
+# Runtime  : 0 ms (beats 0%)
+# Memory   : 19232000 (beats 0%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
