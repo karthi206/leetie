@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Linked List, Tree, Depth-First Search, Breadth-First Search, Binary Tree
 # Link     : https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
-# Runtime  : 55 ms (beats 71%)
-# Memory   : 20736000 (beats 18%)
+# Runtime  : 55 ms (beats 0%)
+# Memory   : 19508000 (beats 0%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
