@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Math
 # Link     : https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19284000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 19296000 (beats 58%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
