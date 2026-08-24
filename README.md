@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 58 Solved
+## Progress Summary: 59 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -17,6 +17,7 @@
 | check-divisibility-by-digit-sum-and-product | Check Divisibility by Digit Sum and Product | Easy | python3 | [Problem](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | [Solution](./solutions/Easy/3622-check-divisibility-by-digit-sum-and-product/solution.py) |
 | classes-with-at-least-5-students | Classes With at Least 5 Students | Easy | mysql | [Problem](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Solution](./solutions/Easy/0596-classes-with-at-least-5-students/solution.sql) |
 | clone-graph | Clone Graph | Medium | python3 | [Problem](https://leetcode.com/problems/clone-graph/) | [Solution](./solutions/Medium/0133-clone-graph/solution.py) |
+| consecutive-numbers | Consecutive Numbers | Medium | mysql | [Problem](https://leetcode.com/problems/consecutive-numbers/) | [Solution](./solutions/Medium/0180-consecutive-numbers/solution.sql) |
 | contains-duplicate-iii | Contains Duplicate III | Hard | python3 | [Problem](https://leetcode.com/problems/contains-duplicate-iii/) | [Solution](./solutions/Hard/0220-contains-duplicate-iii/solution.py) |
 | course-schedule | Course Schedule | Medium | python3 | [Problem](https://leetcode.com/problems/course-schedule/) | [Solution](./solutions/Medium/0207-course-schedule/solution.py) |
 | course-schedule-ii | Course Schedule II | Medium | python3 | [Problem](https://leetcode.com/problems/course-schedule-ii/) | [Solution](./solutions/Medium/0210-course-schedule-ii/solution.py) |
