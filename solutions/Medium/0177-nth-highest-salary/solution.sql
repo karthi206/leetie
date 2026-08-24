@@ -3,8 +3,8 @@
 -- Difficulty: Medium
 -- Tags     : Database
 -- Link     : https://leetcode.com/problems/nth-highest-salary/
--- Runtime  : 442 ms (beats 83%)
--- Memory   : 0B (beats 100%)
+-- Runtime  : 93 ms (beats 0%)
+-- Memory   : 0B (beats 0%)
 -- Language : mysql
 -- Copyright: (c) 2026 karthi206. All rights reserved.
 -- Synced by: leetie
