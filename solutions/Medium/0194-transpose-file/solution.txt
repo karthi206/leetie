@@ -1,0 +1,21 @@
+// ──────────────────────────────────────────────────
+// Problem  : 194. Transpose File
+// Difficulty: Medium
+// Tags     : Shell
+// Link     : https://leetcode.com/problems/transpose-file/
+// Runtime  : 68 ms (beats 43%)
+// Memory   : 4120000 (beats 15%)
+// Language : bash
+// Copyright: (c) 2026 karthi206. All rights reserved.
+// Synced by: leetie
+// ──────────────────────────────────────────────────
+
+awk '
+{
+    for (i = 1; i <= NF; i++)
+        a[i] = a[i] ? a[i] FS $i : $i
+}
+END {
+    for (i = 1; i <= NF; i++)
+        print a[i]
+}' file.txt
