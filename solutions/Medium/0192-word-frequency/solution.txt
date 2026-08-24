@@ -1,0 +1,13 @@
+// ──────────────────────────────────────────────────
+// Problem  : 192. Word Frequency
+// Difficulty: Medium
+// Tags     : Shell
+// Link     : https://leetcode.com/problems/word-frequency/
+// Runtime  : 93 ms (beats 5%)
+// Memory   : 3816000 (beats 25%)
+// Language : bash
+// Copyright: (c) 2026 karthi206. All rights reserved.
+// Synced by: leetie
+// ──────────────────────────────────────────────────
+
+cat words.txt | tr -s '[:space:]' '\n' | sort | uniq -c | sort -nr | awk '{print $2, $1}'
