@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Hash Table
 # Link     : https://leetcode.com/problems/smallest-missing-multiple-of-k/
-# Runtime  : 0 ms (beats 100%)
-# Memory   : 19320000 (beats 19%)
+# Runtime  : 3 ms (beats 21%)
+# Memory   : 19140000 (beats 89%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
