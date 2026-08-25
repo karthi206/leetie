@@ -4,7 +4,7 @@
 # Tags     : Array, Hash Table
 # Link     : https://leetcode.com/problems/smallest-missing-multiple-of-k/
 # Runtime  : 0 ms (beats 100%)
-# Memory   : 19136000 (beats 89%)
+# Memory   : 19252000 (beats 53%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
