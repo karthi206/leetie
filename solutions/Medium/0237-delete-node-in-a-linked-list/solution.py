@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Linked List
 # Link     : https://leetcode.com/problems/delete-node-in-a-linked-list/
-# Runtime  : 43 ms (beats 0%)
-# Memory   : 19160000 (beats 0%)
+# Runtime  : 34 ms (beats 99%)
+# Memory   : 19484000 (beats 67%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
