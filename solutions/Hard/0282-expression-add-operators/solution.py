@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Math, String, Backtracking
 # Link     : https://leetcode.com/problems/expression-add-operators/
-# Runtime  : 107 ms (beats 0%)
-# Memory   : 19452000 (beats 0%)
+# Runtime  : 466 ms (beats 28%)
+# Memory   : 19576000 (beats 61%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
