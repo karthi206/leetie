@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : String, Rolling Hash, String Matching, Hash Function, Manacher, Z Algorithm, Knuth–Morris–Pratt Algorithm
 # Link     : https://leetcode.com/problems/shortest-palindrome/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19256000 (beats 0%)
+# Runtime  : 47 ms (beats 73%)
+# Memory   : 23524000 (beats 29%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
