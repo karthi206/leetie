@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Hash Table, String, Design, Trie
 # Link     : https://leetcode.com/problems/implement-trie-prefix-tree/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19428000 (beats 0%)
+# Runtime  : 63 ms (beats 11%)
+# Memory   : 36960000 (beats 7%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
