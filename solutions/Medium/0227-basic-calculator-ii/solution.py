@@ -4,7 +4,7 @@
 # Tags     : Math, String, Stack
 # Link     : https://leetcode.com/problems/basic-calculator-ii/
 # Runtime  : 0 ms (beats 0%)
-# Memory   : 19308000 (beats 0%)
+# Memory   : 19420000 (beats 0%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
