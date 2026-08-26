@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, String, Backtracking, Trie, Matrix
 # Link     : https://leetcode.com/problems/word-search-ii/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19584000 (beats 0%)
+# Runtime  : 6251 ms (beats 28%)
+# Memory   : 21644000 (beats 23%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
