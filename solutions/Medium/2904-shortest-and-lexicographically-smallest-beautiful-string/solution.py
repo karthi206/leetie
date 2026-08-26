@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : String, Sliding Window
 # Link     : https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19260000 (beats 0%)
+# Runtime  : 19 ms (beats 6%)
+# Memory   : 19304000 (beats 31%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
