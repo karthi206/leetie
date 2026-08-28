@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Hash Table, String
 # Link     : https://leetcode.com/problems/buddy-strings/
-# Runtime  : 4 ms (beats 17%)
-# Memory   : 19092000 (beats 99%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 19268000 (beats 67%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
@@ -15,11 +15,11 @@ class Solution:
         n = len(s)
 
         if len(goal) != n:
-            return False;
+            return False
 
         if s == goal:
             temp = set(s)
-            return len(temp) < len(goal)  # Swapping same characters
+            return len(temp) < len(goal)  
 
         i = 0
         j = n - 1
