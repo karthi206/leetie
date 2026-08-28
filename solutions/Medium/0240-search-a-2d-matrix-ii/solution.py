@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Binary Search, Divide and Conquer, Matrix
 # Link     : https://leetcode.com/problems/search-a-2d-matrix-ii/
-# Runtime  : 46 ms (beats 0%)
-# Memory   : 19336000 (beats 0%)
+# Runtime  : 138 ms (beats 77%)
+# Memory   : 25588000 (beats 61%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
