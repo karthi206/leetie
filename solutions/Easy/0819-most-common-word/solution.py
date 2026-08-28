@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Hash Table, String, Counting
 # Link     : https://leetcode.com/problems/most-common-word/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19560000 (beats 0%)
+# Runtime  : 1 ms (beats 74%)
+# Memory   : 19456000 (beats 23%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
