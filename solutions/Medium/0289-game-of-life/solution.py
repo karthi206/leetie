@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Matrix, Simulation
 # Link     : https://leetcode.com/problems/game-of-life/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19228000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 19312000 (beats 49%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
