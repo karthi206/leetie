@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Divide and Conquer, Design, Binary Indexed Tree, Segment Tree, Sqrt Decomposition
 # Link     : https://leetcode.com/problems/range-sum-query-mutable/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19668000 (beats 0%)
+# Runtime  : 753 ms (beats 41%)
+# Memory   : 57480000 (beats 5%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
