@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : String, Backtracking
 # Link     : https://leetcode.com/problems/additive-number/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19456000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 19396000 (beats 31%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
