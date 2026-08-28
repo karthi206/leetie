@@ -11,27 +11,21 @@
 # ──────────────────────────────────────────────────
 
 class Solution:
-    def shortestToChar(self, s, c):
-        ans = []
-        n = len(s)
-        ptr1 = 0
-        while ptr1 < n and s[ptr1] != c:
-            ptr1 += 1
-        idx = 0
-        for idx in range(ptr1 + 1):
-            ans.append(abs(idx - ptr1))
-        ptr2 = 0
-        while ptr2 < n:
-            while ptr1 < n and s[ptr1] != c:
-                ptr1 += 1
-            ptr2 = ptr1 + 1
-            while ptr2 < n and s[ptr2] != c:
-                ptr2 += 1
-            while idx < n and idx <= ptr2:
-                if ptr2 < n:
-                    ans.append(min(abs(idx - ptr1), abs(idx - ptr2)))
-                else:
-                    ans.append(abs(idx - ptr1))
-                idx += 1
-            ptr1 = ptr2
-        return ans
+    def shortestToChar(self, s: str, c: str) -> List[int]:
+        a,n=[],len(s)
+        for i in range(n):
+            if s[i]==c:
+                a.append(i)
+        answer=[]
+        j=0
+        for i in range(n):
+            if s[i]==c:
+                answer.append(0)
+                j+=1
+            elif i<a[0]:
+                answer.append(a[0]-i)
+            elif i>a[-1]:
+                answer.append(i-a[-1])
+            else:
+                answer.append(min((a[j]-i),(i-a[j-1])))
+        return answer
