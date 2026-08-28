@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Hash Table, String
 # Link     : https://leetcode.com/problems/buddy-strings/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19204000 (beats 0%)
+# Runtime  : 4 ms (beats 17%)
+# Memory   : 19092000 (beats 99%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
