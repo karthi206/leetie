@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Two Pointers, String, Enumeration
 # Link     : https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/
-# Runtime  : 14 ms (beats 82%)
-# Memory   : 19460000 (beats 68%)
+# Runtime  : 22 ms (beats 61%)
+# Memory   : 19620000 (beats 32%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
