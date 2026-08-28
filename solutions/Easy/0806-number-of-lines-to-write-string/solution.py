@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, String
 # Link     : https://leetcode.com/problems/number-of-lines-to-write-string/
-# Runtime  : 69 ms (beats 0%)
-# Memory   : 19256000 (beats 0%)
+# Runtime  : 49 ms (beats 35%)
+# Memory   : 19352000 (beats 17%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
