@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Greedy
 # Link     : https://leetcode.com/problems/lemonade-change/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19380000 (beats 0%)
+# Runtime  : 32 ms (beats 5%)
+# Memory   : 24300000 (beats 16%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
