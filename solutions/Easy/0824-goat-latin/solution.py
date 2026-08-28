@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : String
 # Link     : https://leetcode.com/problems/goat-latin/
-# Runtime  : 0 ms (beats 100%)
-# Memory   : 19252000 (beats 60%)
+# Runtime  : 0 ms (beats 0%)
+# Memory   : 19320000 (beats 0%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
