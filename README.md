@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 105 Solved
+## Progress Summary: 106 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -77,12 +77,14 @@
 | house-robber-ii | House Robber II | Medium | python3 | [Problem](https://leetcode.com/problems/house-robber-ii/) | [Solution](./solutions/Medium/0213-house-robber-ii/solution.py) |
 | implement-trie-prefix-tree | Implement Trie (Prefix Tree) | Medium | python3 | [Problem](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](./solutions/Medium/0208-implement-trie-prefix-tree/solution.py) |
 | integer-to-english-words | Integer to English Words | Hard | python3 | [Problem](https://leetcode.com/problems/integer-to-english-words/) | [Solution](./solutions/Hard/0273-integer-to-english-words/solution.py) |
+| lemonade-change | Lemonade Change | Easy | python3 | [Problem](https://leetcode.com/problems/lemonade-change/) | [Solution](./solutions/Easy/0860-lemonade-change/solution.py) |
 | lexicographically-smallest-palindromic-permutation-greater-than-target | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | python3 | [Problem](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/) | [Solution](./solutions/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution.py) |
 | lexicographically-smallest-permutation-greater-than-target | Lexicographically Smallest Permutation Greater Than Target | Medium | python3 | [Problem](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/) | [Solution](./solutions/Medium/3720-lexicographically-smallest-permutation-greater-than-target/solution.py) |
 | longest-increasing-subsequence | Longest Increasing Subsequence | Medium | python3 | [Problem](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](./solutions/Medium/0300-longest-increasing-subsequence/solution.py) |
 | maximal-square | Maximal Square | Medium | python3 | [Problem](https://leetcode.com/problems/maximal-square/) | [Solution](./solutions/Medium/0221-maximal-square/solution.py) |
 | minimum-distance-between-bst-nodes | Minimum Distance Between BST Nodes | Easy | python3 | [Problem](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Solution](./solutions/Easy/0783-minimum-distance-between-bst-nodes/solution.py) |
 | most-common-word | Most Common Word | Easy | python3 | [Problem](https://leetcode.com/problems/most-common-word/) | [Solution](./solutions/Easy/0819-most-common-word/solution.py) |
+| not-boring-movies | 620. Not Boring Movies | Easy | mysql | [Problem](https://leetcode.com/problems/not-boring-movies/) | [Solution](./solutions/Easy/0620-not-boring-movies/solution.sql) |
 | number-of-digit-one | Number of Digit One | Hard | python3 | [Problem](https://leetcode.com/problems/number-of-digit-one/) | [Solution](./solutions/Hard/0233-number-of-digit-one/solution.py) |
 | number-of-lines-to-write-string | Number of Lines To Write String | Easy | python3 | [Problem](https://leetcode.com/problems/number-of-lines-to-write-string/) | [Solution](./solutions/Easy/0806-number-of-lines-to-write-string/solution.py) |
 | peeking-iterator | Peeking Iterator | Medium | python3 | [Problem](https://leetcode.com/problems/peeking-iterator/) | [Solution](./solutions/Medium/0284-peeking-iterator/solution.py) |
@@ -100,7 +102,6 @@
 | shortest-palindrome | Shortest Palindrome | Hard | python3 | [Problem](https://leetcode.com/problems/shortest-palindrome/) | [Solution](./solutions/Hard/0214-shortest-palindrome/solution.py) |
 | single-number-iii | Single Number III | Medium | python3 | [Problem](https://leetcode.com/problems/single-number-iii/) | [Solution](./solutions/Medium/0260-single-number-iii/solution.py) |
 | triangle-judgement | 610. Triangle Judgement | Easy | mysql | [Problem](https://leetcode.com/problems/triangle-judgement/) | [Solution](./solutions/Easy/0610-triangle-judgement/solution.sql) |
-| not-boring-movies | 620. Not Boring Movies | Easy | mysql | [Problem](https://leetcode.com/problems/not-boring-movies/) | [Solution](./solutions/Easy/0620-not-boring-movies/solution.sql) |
 | swap-sex-of-employees | 627. Swap Sex Of Employees | Easy | mysql | [Problem](https://leetcode.com/problems/swap-sex-of-employees/) | [Solution](./solutions/Easy/0627-swap-sex-of-employees/solution.sql) |
 | toeplitz-matrix | 766. Toeplitz Matrix | Easy | python3 | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.py) |
 | stone-game-viii | 1872. Stone Game Viii | Hard | python3 | [Problem](https://leetcode.com/problems/stone-game-viii/) | [Solution](./solutions/Hard/1872-stone-game-viii/solution.py) |
