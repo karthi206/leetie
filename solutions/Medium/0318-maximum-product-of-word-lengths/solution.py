@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, String, Bit Manipulation
 # Link     : https://leetcode.com/problems/maximum-product-of-word-lengths/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19400000 (beats 0%)
+# Runtime  : 795 ms (beats 31%)
+# Memory   : 22476000 (beats 30%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
@@ -21,3 +21,4 @@ class Solution:
                     max_val=max(max_val, len(words[i]) * len(words[j]))
         
         return max_val   
+        
