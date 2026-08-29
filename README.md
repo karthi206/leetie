@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 109 Solved
+## Progress Summary: 110 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -10,9 +10,9 @@
 | basic-calculator | Basic Calculator | Hard | python3 | [Problem](https://leetcode.com/problems/basic-calculator/) | [Solution](./solutions/Hard/0224-basic-calculator/solution.py) |
 | basic-calculator-ii | Basic Calculator II | Medium | python3 | [Problem](https://leetcode.com/problems/basic-calculator-ii/) | [Solution](./solutions/Medium/0227-basic-calculator-ii/solution.py) |
 | best-time-to-buy-and-sell-stock-with-cooldown | Best Time to Buy and Sell Stock with Cooldown | Medium | python3 | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Solution](./solutions/Medium/0309-best-time-to-buy-and-sell-stock-with-cooldown/solution.py) |
+| big-countries | 595. Big Countries | Easy | mysql | [Problem](https://leetcode.com/problems/big-countries/) | [Solution](./solutions/Easy/0595-big-countries/solution.sql) |
 | buddy-strings | Buddy Strings | Easy | python3 | [Problem](https://leetcode.com/problems/buddy-strings/) | [Solution](./solutions/Easy/0859-buddy-strings/solution.py) |
 | bulls-and-cows | Bulls and Cows | Medium | python3 | [Problem](https://leetcode.com/problems/bulls-and-cows/) | [Solution](./solutions/Medium/0299-bulls-and-cows/solution.py) |
-| classes-with-at-least-5-students | 596. Classes With At Least 5 Students | Easy | mysql | [Problem](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Solution](./solutions/Easy/0596-classes-with-at-least-5-students/solution.sql) |
 | combination-sum-iii | Combination Sum III | Medium | python3 | [Problem](https://leetcode.com/problems/combination-sum-iii/) | [Solution](./solutions/Medium/0216-combination-sum-iii/solution.py) |
 | delete-node-in-a-linked-list | Delete Node in a Linked List | Medium | python3 | [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./solutions/Medium/0237-delete-node-in-a-linked-list/solution.py) |
 | different-ways-to-add-parentheses | Different Ways to Add Parentheses | Medium | python3 | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.py) |
@@ -24,13 +24,14 @@
 | flipping-an-image | Flipping an Image | Easy | python3 | [Problem](https://leetcode.com/problems/flipping-an-image/) | [Solution](./solutions/Easy/0832-flipping-an-image/solution.py) |
 | game-of-life | Game of Life | Medium | python3 | [Problem](https://leetcode.com/problems/game-of-life/) | [Solution](./solutions/Medium/0289-game-of-life/solution.py) |
 | game-play-analysis-i | 511. Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |
-| big-countries | 595. Big Countries | Easy | mysql | [Problem](https://leetcode.com/problems/big-countries/) | [Solution](./solutions/Easy/0595-big-countries/solution.sql) |
+| classes-with-at-least-5-students | 596. Classes With At Least 5 Students | Easy | mysql | [Problem](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Solution](./solutions/Easy/0596-classes-with-at-least-5-students/solution.sql) |
 | game-play-analysis-iv | Game Play Analysis IV | Medium | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-iv/) | [Solution](./solutions/Medium/0550-game-play-analysis-iv/solution.sql) |
 | goat-latin | Goat Latin | Easy | python3 | [Problem](https://leetcode.com/problems/goat-latin/) | [Solution](./solutions/Easy/0824-goat-latin/solution.py) |
 | h-index-ii | H-Index II | Medium | python3 | [Problem](https://leetcode.com/problems/h-index-ii/) | [Solution](./solutions/Medium/0275-h-index-ii/solution.py) |
 | house-robber-ii | House Robber II | Medium | python3 | [Problem](https://leetcode.com/problems/house-robber-ii/) | [Solution](./solutions/Medium/0213-house-robber-ii/solution.py) |
 | implement-trie-prefix-tree | Implement Trie (Prefix Tree) | Medium | python3 | [Problem](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](./solutions/Medium/0208-implement-trie-prefix-tree/solution.py) |
 | integer-to-english-words | Integer to English Words | Hard | python3 | [Problem](https://leetcode.com/problems/integer-to-english-words/) | [Solution](./solutions/Hard/0273-integer-to-english-words/solution.py) |
+| investments-in-2016 | Investments in 2016 | Medium | mysql | [Problem](https://leetcode.com/problems/investments-in-2016/) | [Solution](./solutions/Medium/0585-investments-in-2016/solution.sql) |
 | lemonade-change | Lemonade Change | Easy | python3 | [Problem](https://leetcode.com/problems/lemonade-change/) | [Solution](./solutions/Easy/0860-lemonade-change/solution.py) |
 | lexicographically-smallest-palindromic-permutation-greater-than-target | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | python3 | [Problem](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/) | [Solution](./solutions/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution.py) |
 | lexicographically-smallest-permutation-greater-than-target | Lexicographically Smallest Permutation Greater Than Target | Medium | python3 | [Problem](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/) | [Solution](./solutions/Medium/3720-lexicographically-smallest-permutation-greater-than-target/solution.py) |
