@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 122 Solved
+## Progress Summary: 123 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -15,6 +15,7 @@
 | bulls-and-cows | Bulls and Cows | Medium | python3 | [Problem](https://leetcode.com/problems/bulls-and-cows/) | [Solution](./solutions/Medium/0299-bulls-and-cows/solution.py) |
 | burst-balloons | Burst Balloons | Hard | python3 | [Problem](https://leetcode.com/problems/burst-balloons/) | [Solution](./solutions/Hard/0312-burst-balloons/solution.py) |
 | combination-sum-iii | Combination Sum III | Medium | python3 | [Problem](https://leetcode.com/problems/combination-sum-iii/) | [Solution](./solutions/Medium/0216-combination-sum-iii/solution.py) |
+| count-of-smaller-numbers-after-self | Count of Smaller Numbers After Self | Hard | python3 | [Problem](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Solution](./solutions/Hard/0315-count-of-smaller-numbers-after-self/solution.py) |
 | customers-who-bought-all-products | Customers Who Bought All Products | Medium | mysql | [Problem](https://leetcode.com/problems/customers-who-bought-all-products/) | [Solution](./solutions/Medium/1045-customers-who-bought-all-products/solution.sql) |
 | delete-node-in-a-linked-list | Delete Node in a Linked List | Medium | python3 | [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./solutions/Medium/0237-delete-node-in-a-linked-list/solution.py) |
 | different-ways-to-add-parentheses | Different Ways to Add Parentheses | Medium | python3 | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.py) |
@@ -24,7 +25,6 @@
 | flipping-an-image | Flipping an Image | Easy | python3 | [Problem](https://leetcode.com/problems/flipping-an-image/) | [Solution](./solutions/Easy/0832-flipping-an-image/solution.py) |
 | friend-requests-ii-who-has-the-most-friends | Friend Requests II: Who Has the Most Friends | Medium | mysql | [Problem](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | [Solution](./solutions/Medium/0602-friend-requests-ii-who-has-the-most-friends/solution.sql) |
 | game-of-life | Game of Life | Medium | python3 | [Problem](https://leetcode.com/problems/game-of-life/) | [Solution](./solutions/Medium/0289-game-of-life/solution.py) |
-| game-play-analysis-i | 511. Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |
 | game-play-analysis-iv | Game Play Analysis IV | Medium | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-iv/) | [Solution](./solutions/Medium/0550-game-play-analysis-iv/solution.sql) |
 | goat-latin | Goat Latin | Easy | python3 | [Problem](https://leetcode.com/problems/goat-latin/) | [Solution](./solutions/Easy/0824-goat-latin/solution.py) |
 | h-index-ii | H-Index II | Medium | python3 | [Problem](https://leetcode.com/problems/h-index-ii/) | [Solution](./solutions/Medium/0275-h-index-ii/solution.py) |
@@ -109,6 +109,7 @@
 | russian-doll-envelopes | 354. Russian Doll Envelopes | Hard | python3 | [Problem](https://leetcode.com/problems/russian-doll-envelopes/) | [Solution](./solutions/Hard/0354-russian-doll-envelopes/solution.py) |
 | water-and-jug-problem | 365. Water And Jug Problem | Medium | python3 | [Problem](https://leetcode.com/problems/water-and-jug-problem/) | [Solution](./solutions/Medium/0365-water-and-jug-problem/solution.py) |
 | mini-parser | 385. Mini Parser | Medium | python3 | [Problem](https://leetcode.com/problems/mini-parser/) | [Solution](./solutions/Medium/0385-mini-parser/solution.py) |
+| game-play-analysis-i | 511. Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |
 | employee-bonus | 577. Employee Bonus | Easy | mysql | [Problem](https://leetcode.com/problems/employee-bonus/) | [Solution](./solutions/Easy/0577-employee-bonus/solution.sql) |
 | find-customer-referee | 584. Find Customer Referee | Easy | mysql | [Problem](https://leetcode.com/problems/find-customer-referee/) | [Solution](./solutions/Easy/0584-find-customer-referee/solution.sql) |
 | customer-placing-the-largest-number-of-orders | 586. Customer Placing The Largest Number Of Orders | Easy | mysql | [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution](./solutions/Easy/0586-customer-placing-the-largest-number-of-orders/solution.sql) |
