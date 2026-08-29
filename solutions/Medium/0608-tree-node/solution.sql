@@ -3,8 +3,8 @@
 -- Difficulty: Medium
 -- Tags     : Database
 -- Link     : https://leetcode.com/problems/tree-node/
--- Runtime  : 81 ms (beats 0%)
--- Memory   : 0B (beats 0%)
+-- Runtime  : 526 ms (beats 53%)
+-- Memory   : 0B (beats 100%)
 -- Language : mysql
 -- Copyright: (c) 2026 karthi206. All rights reserved.
 -- Synced by: leetie
