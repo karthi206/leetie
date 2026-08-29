@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 107 Solved
+## Progress Summary: 108 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -19,12 +19,13 @@
 | expression-add-operators | Expression Add Operators | Hard | python3 | [Problem](https://leetcode.com/problems/expression-add-operators/) | [Solution](./solutions/Hard/0282-expression-add-operators/solution.py) |
 | find-customer-referee | 584. Find Customer Referee | Easy | mysql | [Problem](https://leetcode.com/problems/find-customer-referee/) | [Solution](./solutions/Easy/0584-find-customer-referee/solution.sql) |
 | customer-placing-the-largest-number-of-orders | 586. Customer Placing The Largest Number Of Orders | Easy | mysql | [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution](./solutions/Easy/0586-customer-placing-the-largest-number-of-orders/solution.sql) |
-| big-countries | 595. Big Countries | Easy | mysql | [Problem](https://leetcode.com/problems/big-countries/) | [Solution](./solutions/Easy/0595-big-countries/solution.sql) |
-| classes-with-at-least-5-students | 596. Classes With At Least 5 Students | Easy | mysql | [Problem](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Solution](./solutions/Easy/0596-classes-with-at-least-5-students/solution.sql) |
 | find-the-duplicate-number | Find the Duplicate Number | Medium | python3 | [Problem](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](./solutions/Medium/0287-find-the-duplicate-number/solution.py) |
 | flipping-an-image | Flipping an Image | Easy | python3 | [Problem](https://leetcode.com/problems/flipping-an-image/) | [Solution](./solutions/Easy/0832-flipping-an-image/solution.py) |
 | game-of-life | Game of Life | Medium | python3 | [Problem](https://leetcode.com/problems/game-of-life/) | [Solution](./solutions/Medium/0289-game-of-life/solution.py) |
 | game-play-analysis-i | 511. Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |
+| big-countries | 595. Big Countries | Easy | mysql | [Problem](https://leetcode.com/problems/big-countries/) | [Solution](./solutions/Easy/0595-big-countries/solution.sql) |
+| classes-with-at-least-5-students | 596. Classes With At Least 5 Students | Easy | mysql | [Problem](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Solution](./solutions/Easy/0596-classes-with-at-least-5-students/solution.sql) |
+| game-play-analysis-iv | Game Play Analysis IV | Medium | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-iv/) | [Solution](./solutions/Medium/0550-game-play-analysis-iv/solution.sql) |
 | goat-latin | Goat Latin | Easy | python3 | [Problem](https://leetcode.com/problems/goat-latin/) | [Solution](./solutions/Easy/0824-goat-latin/solution.py) |
 | h-index-ii | H-Index II | Medium | python3 | [Problem](https://leetcode.com/problems/h-index-ii/) | [Solution](./solutions/Medium/0275-h-index-ii/solution.py) |
 | house-robber-ii | House Robber II | Medium | python3 | [Problem](https://leetcode.com/problems/house-robber-ii/) | [Solution](./solutions/Medium/0213-house-robber-ii/solution.py) |
