@@ -3,8 +3,8 @@
 -- Difficulty: Hard
 -- Tags     : Database
 -- Link     : https://leetcode.com/problems/human-traffic-of-stadium/
--- Runtime  : 66 ms (beats 0%)
--- Memory   : 0B (beats 0%)
+-- Runtime  : 364 ms (beats 88%)
+-- Memory   : 0B (beats 100%)
 -- Language : mysql
 -- Copyright: (c) 2026 karthi206. All rights reserved.
 -- Synced by: leetie
