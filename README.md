@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 123 Solved
+## Progress Summary: 124 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -40,6 +40,7 @@
 | make-lexicographically-smallest-array-by-swapping-elements | Make Lexicographically Smallest Array by Swapping Elements | Medium | python3 | [Problem](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | [Solution](./solutions/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/solution.py) |
 | managers-with-at-least-5-direct-reports | Managers with at Least 5 Direct Reports | Medium | mysql | [Problem](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | [Solution](./solutions/Medium/0570-managers-with-at-least-5-direct-reports/solution.sql) |
 | maximal-square | Maximal Square | Medium | python3 | [Problem](https://leetcode.com/problems/maximal-square/) | [Solution](./solutions/Medium/0221-maximal-square/solution.py) |
+| maximum-product-of-word-lengths | Maximum Product of Word Lengths | Medium | python3 | [Problem](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [Solution](./solutions/Medium/0318-maximum-product-of-word-lengths/solution.py) |
 | minimum-distance-between-bst-nodes | Minimum Distance Between BST Nodes | Easy | python3 | [Problem](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Solution](./solutions/Easy/0783-minimum-distance-between-bst-nodes/solution.py) |
 | most-common-word | Most Common Word | Easy | python3 | [Problem](https://leetcode.com/problems/most-common-word/) | [Solution](./solutions/Easy/0819-most-common-word/solution.py) |
 | number-of-digit-one | Number of Digit One | Hard | python3 | [Problem](https://leetcode.com/problems/number-of-digit-one/) | [Solution](./solutions/Hard/0233-number-of-digit-one/solution.py) |
