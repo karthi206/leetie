@@ -3,8 +3,8 @@
 -- Difficulty: Easy
 -- Tags     : Database
 -- Link     : https://leetcode.com/problems/sales-analysis-iii/
--- Runtime  : 108 ms (beats 0%)
--- Memory   : 0B (beats 0%)
+-- Runtime  : 1166 ms (beats 78%)
+-- Memory   : 0B (beats 100%)
 -- Language : mysql
 -- Copyright: (c) 2026 karthi206. All rights reserved.
 -- Synced by: leetie
@@ -17,3 +17,4 @@ JOIN sales s
 GROUP BY p.product_id,p.product_name
 HAVING MIN(s.sale_date)>= '2019-01-01'
     AND MAX(s.sale_date)<= '2019-03-31'
+    
