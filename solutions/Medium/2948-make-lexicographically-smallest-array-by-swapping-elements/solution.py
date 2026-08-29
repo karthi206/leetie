@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Union-Find, Sorting
 # Link     : https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19480000 (beats 0%)
+# Runtime  : 259 ms (beats 69%)
+# Memory   : 47768000 (beats 69%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
@@ -46,3 +46,4 @@ class Solution:
             start = end + 1
         
         return answer
+        
