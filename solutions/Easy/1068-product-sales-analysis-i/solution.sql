@@ -3,8 +3,8 @@
 -- Difficulty: Easy
 -- Tags     : Database
 -- Link     : https://leetcode.com/problems/product-sales-analysis-i/
--- Runtime  : 97 ms (beats 0%)
--- Memory   : 0B (beats 0%)
+-- Runtime  : 1299 ms (beats 66%)
+-- Memory   : 0B (beats 100%)
 -- Language : mysql
 -- Copyright: (c) 2026 karthi206. All rights reserved.
 -- Synced by: leetie
