@@ -4,7 +4,7 @@
 # Tags     : String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm
 # Link     : https://leetcode.com/problems/repeated-substring-pattern/
 # Runtime  : 0 ms (beats 0%)
-# Memory   : 19244000 (beats 0%)
+# Memory   : 19424000 (beats 0%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
@@ -19,7 +19,7 @@ class Solution:
         while i<n:
             if s[i] == s[lene]:
                 lene+=1
-                lps[lene]=i
+                lps[i]=lene
                 i+=1
             else:
                 if lene>0:
