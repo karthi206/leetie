@@ -4,7 +4,7 @@
 # Tags     : String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm
 # Link     : https://leetcode.com/problems/repeated-substring-pattern/
 # Runtime  : 0 ms (beats 0%)
-# Memory   : 19328000 (beats 0%)
+# Memory   : 19364000 (beats 0%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
@@ -28,7 +28,7 @@ class Solution:
                     lps[i]=0
                     i+=1
         chunk=n-lps[-1]
-        if 0 != lps[-1] and n%chunk ==0 :
+        if lps[-1]!= 0 and n%chunk ==0 :
             res=True
         else:
             res=False
