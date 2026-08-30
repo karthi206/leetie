@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm
 # Link     : https://leetcode.com/problems/repeated-substring-pattern/
-# Runtime  : 38 ms (beats 22%)
-# Memory   : 19632000 (beats 7%)
+# Runtime  : 32 ms (beats 25%)
+# Memory   : 19668000 (beats 7%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
