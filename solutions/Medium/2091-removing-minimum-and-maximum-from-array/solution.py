@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Greedy
 # Link     : https://leetcode.com/problems/removing-minimum-and-maximum-from-array/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19376000 (beats 0%)
+# Runtime  : 22 ms (beats 51%)
+# Memory   : 33584000 (beats 63%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
