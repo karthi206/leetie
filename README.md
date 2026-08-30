@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 126 Solved
+## Progress Summary: 127 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -31,12 +31,12 @@
 | h-index-ii | H-Index II | Medium | python3 | [Problem](https://leetcode.com/problems/h-index-ii/) | [Solution](./solutions/Medium/0275-h-index-ii/solution.py) |
 | house-robber-ii | House Robber II | Medium | python3 | [Problem](https://leetcode.com/problems/house-robber-ii/) | [Solution](./solutions/Medium/0213-house-robber-ii/solution.py) |
 | human-traffic-of-stadium | Human Traffic of Stadium | Hard | mysql | [Problem](https://leetcode.com/problems/human-traffic-of-stadium/) | [Solution](./solutions/Hard/0601-human-traffic-of-stadium/solution.sql) |
-| implement-trie-prefix-tree | Implement Trie (Prefix Tree) | Medium | python3 | [Problem](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](./solutions/Medium/0208-implement-trie-prefix-tree/solution.py) |
 | integer-to-english-words | Integer to English Words | Hard | python3 | [Problem](https://leetcode.com/problems/integer-to-english-words/) | [Solution](./solutions/Hard/0273-integer-to-english-words/solution.py) |
 | investments-in-2016 | Investments in 2016 | Medium | mysql | [Problem](https://leetcode.com/problems/investments-in-2016/) | [Solution](./solutions/Medium/0585-investments-in-2016/solution.sql) |
 | lemonade-change | Lemonade Change | Easy | python3 | [Problem](https://leetcode.com/problems/lemonade-change/) | [Solution](./solutions/Easy/0860-lemonade-change/solution.py) |
 | lexicographically-smallest-palindromic-permutation-greater-than-target | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | python3 | [Problem](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/) | [Solution](./solutions/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution.py) |
 | lexicographically-smallest-permutation-greater-than-target | Lexicographically Smallest Permutation Greater Than Target | Medium | python3 | [Problem](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/) | [Solution](./solutions/Medium/3720-lexicographically-smallest-permutation-greater-than-target/solution.py) |
+| longest-happy-prefix | Longest Happy Prefix | Hard | python3 | [Problem](https://leetcode.com/problems/longest-happy-prefix/) | [Solution](./solutions/Hard/1392-longest-happy-prefix/solution.py) |
 | longest-increasing-subsequence | Longest Increasing Subsequence | Medium | python3 | [Problem](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](./solutions/Medium/0300-longest-increasing-subsequence/solution.py) |
 | make-lexicographically-smallest-array-by-swapping-elements | Make Lexicographically Smallest Array by Swapping Elements | Medium | python3 | [Problem](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | [Solution](./solutions/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/solution.py) |
 | managers-with-at-least-5-direct-reports | Managers with at Least 5 Direct Reports | Medium | mysql | [Problem](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | [Solution](./solutions/Medium/0570-managers-with-at-least-5-direct-reports/solution.sql) |
@@ -67,19 +67,26 @@
 | super-ugly-number | Super Ugly Number | Medium | python3 | [Problem](https://leetcode.com/problems/super-ugly-number/) | [Solution](./solutions/Medium/0313-super-ugly-number/solution.py) |
 | text-justification | 68. Text Justification | Hard | python3 | [Problem](https://leetcode.com/problems/text-justification/) | [Solution](./solutions/Hard/0068-text-justification/solution.py) |
 | largest-rectangle-in-histogram | 84. Largest Rectangle In Histogram | Hard | python3 | [Problem](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Solution](./solutions/Hard/0084-largest-rectangle-in-histogram/solution.py) |
-| maximal-rectangle | 85. Maximal Rectangle | Hard | python3 | [Problem](https://leetcode.com/problems/maximal-rectangle/) | [Solution](./solutions/Hard/0085-maximal-rectangle/solution.py) |
 | populating-next-right-pointers-in-each-node | 116. Populating Next Right Pointers In Each Node | Medium | python3 | [Problem](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution](./solutions/Medium/0116-populating-next-right-pointers-in-each-node/solution.py) |
 | populating-next-right-pointers-in-each-node-ii | 117. Populating Next Right Pointers In Each Node Ii | Medium | python3 | [Problem](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Solution](./solutions/Medium/0117-populating-next-right-pointers-in-each-node-ii/solution.py) |
 | tree-node | Tree Node | Medium | mysql | [Problem](https://leetcode.com/problems/tree-node/) | [Solution](./solutions/Medium/0608-tree-node/solution.sql) |
 | triangle | 120. Triangle | Medium | python3 | [Problem](https://leetcode.com/problems/triangle/) | [Solution](./solutions/Medium/0120-triangle/solution.py) |
 | best-time-to-buy-and-sell-stock-ii | 122. Best Time To Buy And Sell Stock Ii | Medium | python3 | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](./solutions/Medium/0122-best-time-to-buy-and-sell-stock-ii/solution.py) |
-| best-time-to-buy-and-sell-stock-iii | 123. Best Time To Buy And Sell Stock Iii | Hard | python3 | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Solution](./solutions/Hard/0123-best-time-to-buy-and-sell-stock-iii/solution.py) |
-| binary-tree-maximum-path-sum | 124. Binary Tree Maximum Path Sum | Hard | python3 | [Problem](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](./solutions/Hard/0124-binary-tree-maximum-path-sum/solution.py) |
 | sum-root-to-leaf-numbers | 129. Sum Root To Leaf Numbers | Medium | python3 | [Problem](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Solution](./solutions/Medium/0129-sum-root-to-leaf-numbers/solution.py) |
 | surrounded-regions | 130. Surrounded Regions | Medium | python3 | [Problem](https://leetcode.com/problems/surrounded-regions/) | [Solution](./solutions/Medium/0130-surrounded-regions/solution.py) |
 | clone-graph | 133. Clone Graph | Medium | python3 | [Problem](https://leetcode.com/problems/clone-graph/) | [Solution](./solutions/Medium/0133-clone-graph/solution.py) |
 | insertion-sort-list | 147. Insertion Sort List | Medium | python3 | [Problem](https://leetcode.com/problems/insertion-sort-list/) | [Solution](./solutions/Medium/0147-insertion-sort-list/solution.py) |
 | maximum-gap | 164. Maximum Gap | Medium | python3 | [Problem](https://leetcode.com/problems/maximum-gap/) | [Solution](./solutions/Medium/0164-maximum-gap/solution.py) |
+| game-play-analysis-i | 511. Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |
+| employee-bonus | 577. Employee Bonus | Easy | mysql | [Problem](https://leetcode.com/problems/employee-bonus/) | [Solution](./solutions/Easy/0577-employee-bonus/solution.sql) |
+| find-customer-referee | 584. Find Customer Referee | Easy | mysql | [Problem](https://leetcode.com/problems/find-customer-referee/) | [Solution](./solutions/Easy/0584-find-customer-referee/solution.sql) |
+| customer-placing-the-largest-number-of-orders | 586. Customer Placing The Largest Number Of Orders | Easy | mysql | [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution](./solutions/Easy/0586-customer-placing-the-largest-number-of-orders/solution.sql) |
+| big-countries | 595. Big Countries | Easy | mysql | [Problem](https://leetcode.com/problems/big-countries/) | [Solution](./solutions/Easy/0595-big-countries/solution.sql) |
+| classes-with-at-least-5-students | 596. Classes With At Least 5 Students | Easy | mysql | [Problem](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Solution](./solutions/Easy/0596-classes-with-at-least-5-students/solution.sql) |
+| implement-trie-prefix-tree | Implement Trie (Prefix Tree) | Medium | python3 | [Problem](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](./solutions/Medium/0208-implement-trie-prefix-tree/solution.py) |
+| maximal-rectangle | 85. Maximal Rectangle | Hard | python3 | [Problem](https://leetcode.com/problems/maximal-rectangle/) | [Solution](./solutions/Hard/0085-maximal-rectangle/solution.py) |
+| best-time-to-buy-and-sell-stock-iii | 123. Best Time To Buy And Sell Stock Iii | Hard | python3 | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Solution](./solutions/Hard/0123-best-time-to-buy-and-sell-stock-iii/solution.py) |
+| binary-tree-maximum-path-sum | 124. Binary Tree Maximum Path Sum | Hard | python3 | [Problem](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](./solutions/Hard/0124-binary-tree-maximum-path-sum/solution.py) |
 | dungeon-game | 174. Dungeon Game | Hard | python3 | [Problem](https://leetcode.com/problems/dungeon-game/) | [Solution](./solutions/Hard/0174-dungeon-game/solution.py) |
 | second-highest-salary | 176. Second Highest Salary | Medium | mysql | [Problem](https://leetcode.com/problems/second-highest-salary/) | [Solution](./solutions/Medium/0176-second-highest-salary/solution.sql) |
 | nth-highest-salary | 177. Nth Highest Salary | Medium | mysql | [Problem](https://leetcode.com/problems/nth-highest-salary/) | [Solution](./solutions/Medium/0177-nth-highest-salary/solution.sql) |
@@ -111,21 +118,15 @@
 | russian-doll-envelopes | 354. Russian Doll Envelopes | Hard | python3 | [Problem](https://leetcode.com/problems/russian-doll-envelopes/) | [Solution](./solutions/Hard/0354-russian-doll-envelopes/solution.py) |
 | water-and-jug-problem | 365. Water And Jug Problem | Medium | python3 | [Problem](https://leetcode.com/problems/water-and-jug-problem/) | [Solution](./solutions/Medium/0365-water-and-jug-problem/solution.py) |
 | mini-parser | 385. Mini Parser | Medium | python3 | [Problem](https://leetcode.com/problems/mini-parser/) | [Solution](./solutions/Medium/0385-mini-parser/solution.py) |
-| game-play-analysis-i | 511. Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |
-| employee-bonus | 577. Employee Bonus | Easy | mysql | [Problem](https://leetcode.com/problems/employee-bonus/) | [Solution](./solutions/Easy/0577-employee-bonus/solution.sql) |
-| find-customer-referee | 584. Find Customer Referee | Easy | mysql | [Problem](https://leetcode.com/problems/find-customer-referee/) | [Solution](./solutions/Easy/0584-find-customer-referee/solution.sql) |
-| customer-placing-the-largest-number-of-orders | 586. Customer Placing The Largest Number Of Orders | Easy | mysql | [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution](./solutions/Easy/0586-customer-placing-the-largest-number-of-orders/solution.sql) |
-| big-countries | 595. Big Countries | Easy | mysql | [Problem](https://leetcode.com/problems/big-countries/) | [Solution](./solutions/Easy/0595-big-countries/solution.sql) |
-| classes-with-at-least-5-students | 596. Classes With At Least 5 Students | Easy | mysql | [Problem](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Solution](./solutions/Easy/0596-classes-with-at-least-5-students/solution.sql) |
 | sales-person | 607. Sales Person | Easy | mysql | [Problem](https://leetcode.com/problems/sales-person/) | [Solution](./solutions/Easy/0607-sales-person/solution.sql) |
 | biggest-single-number | 619. Biggest Single Number | Easy | mysql | [Problem](https://leetcode.com/problems/biggest-single-number/) | [Solution](./solutions/Easy/0619-biggest-single-number/solution.sql) |
-| not-boring-movies | 620. Not Boring Movies | Easy | mysql | [Problem](https://leetcode.com/problems/not-boring-movies/) | [Solution](./solutions/Easy/0620-not-boring-movies/solution.sql) |
+| kth-smallest-amount-with-single-denomination-combination | 3116. Kth Smallest Amount With Single Denomination Combination | Hard | python3 | [Problem](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | [Solution](./solutions/Hard/3116-kth-smallest-amount-with-single-denomination-combination/solution.py) |
 | shortest-and-lexicographically-smallest-beautiful-string | Shortest and Lexicographically Smallest Beautiful String | Medium | python3 | [Problem](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | [Solution](./solutions/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/solution.py) |
 | triangle-judgement | 610. Triangle Judgement | Easy | mysql | [Problem](https://leetcode.com/problems/triangle-judgement/) | [Solution](./solutions/Easy/0610-triangle-judgement/solution.sql) |
+| not-boring-movies | 620. Not Boring Movies | Easy | mysql | [Problem](https://leetcode.com/problems/not-boring-movies/) | [Solution](./solutions/Easy/0620-not-boring-movies/solution.sql) |
 | swap-sex-of-employees | 627. Swap Sex Of Employees | Easy | mysql | [Problem](https://leetcode.com/problems/swap-sex-of-employees/) | [Solution](./solutions/Easy/0627-swap-sex-of-employees/solution.sql) |
 | toeplitz-matrix | 766. Toeplitz Matrix | Easy | python3 | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.py) |
 | stone-game-viii | 1872. Stone Game Viii | Hard | python3 | [Problem](https://leetcode.com/problems/stone-game-viii/) | [Solution](./solutions/Hard/1872-stone-game-viii/solution.py) |
-| kth-smallest-amount-with-single-denomination-combination | 3116. Kth Smallest Amount With Single Denomination Combination | Hard | python3 | [Problem](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | [Solution](./solutions/Hard/3116-kth-smallest-amount-with-single-denomination-combination/solution.py) |
 | check-divisibility-by-digit-sum-and-product | 3622. Check Divisibility By Digit Sum And Product | Easy | python3 | [Problem](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | [Solution](./solutions/Easy/3622-check-divisibility-by-digit-sum-and-product/solution.py) |
 | smallest-missing-multiple-of-k | 3718. Smallest Missing Multiple Of K | Easy | python3 | [Problem](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [Solution](./solutions/Easy/3718-smallest-missing-multiple-of-k/solution.py) |
 | trips-and-users | Trips and Users | Hard | mysql | [Problem](https://leetcode.com/problems/trips-and-users/) | [Solution](./solutions/Hard/0262-trips-and-users/solution.sql) |
