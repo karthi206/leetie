@@ -3,8 +3,8 @@
 -- Difficulty: Hard
 -- Tags     : Database
 -- Link     : https://leetcode.com/problems/find-invalid-ip-addresses/
--- Runtime  : 330 ms (beats 23%)
--- Memory   : 0B (beats 100%)
+-- Runtime  : 78 ms (beats 0%)
+-- Memory   : 0B (beats 0%)
 -- Language : mysql
 -- Copyright: (c) 2026 karthi206. All rights reserved.
 -- Synced by: leetie
