@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 135 Solved
+## Progress Summary: 136 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -24,6 +24,7 @@
 | exchange-seats | Exchange Seats | Medium | mysql | [Problem](https://leetcode.com/problems/exchange-seats/) | [Solution](./solutions/Medium/0626-exchange-seats/solution.sql) |
 | expression-add-operators | Expression Add Operators | Hard | python3 | [Problem](https://leetcode.com/problems/expression-add-operators/) | [Solution](./solutions/Hard/0282-expression-add-operators/solution.py) |
 | find-invalid-ip-addresses | Find Invalid IP Addresses | Hard | mysql | [Problem](https://leetcode.com/problems/find-invalid-ip-addresses/) | [Solution](./solutions/Hard/3451-find-invalid-ip-addresses/solution.sql) |
+| find-products-with-valid-serial-numbers | Find Products with Valid Serial Numbers | Easy | mysql | [Problem](https://leetcode.com/problems/find-products-with-valid-serial-numbers/) | [Solution](./solutions/Easy/3465-find-products-with-valid-serial-numbers/solution.sql) |
 | find-students-who-improved | Find Students Who Improved | Medium | mysql | [Problem](https://leetcode.com/problems/find-students-who-improved/) | [Solution](./solutions/Medium/3421-find-students-who-improved/solution.sql) |
 | find-the-duplicate-number | Find the Duplicate Number | Medium | python3 | [Problem](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](./solutions/Medium/0287-find-the-duplicate-number/solution.py) |
 | find-the-minimum-and-maximum-number-of-nodes-between-critical-points | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | python3 | [Problem](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Solution](./solutions/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/solution.py) |
