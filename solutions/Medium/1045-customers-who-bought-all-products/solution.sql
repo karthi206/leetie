@@ -3,7 +3,7 @@
 -- Difficulty: Medium
 -- Tags     : Database
 -- Link     : https://leetcode.com/problems/customers-who-bought-all-products/
--- Runtime  : 601 ms (beats 65%)
+-- Runtime  : 648 ms (beats 43%)
 -- Memory   : 0B (beats 100%)
 -- Language : mysql
 -- Copyright: (c) 2026 karthi206. All rights reserved.
