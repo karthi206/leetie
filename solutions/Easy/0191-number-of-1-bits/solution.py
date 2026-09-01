@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Divide and Conquer, Bit Manipulation
 # Link     : https://leetcode.com/problems/number-of-1-bits/
-# Runtime  : 0 ms (beats 100%)
-# Memory   : 19344000 (beats 23%)
+# Runtime  : 0 ms (beats 0%)
+# Memory   : 19384000 (beats 0%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
