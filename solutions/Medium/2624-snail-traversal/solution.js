@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/snail-traversal/
-// Runtime  : 47 ms (beats 0%)
-// Memory   : 53788000 (beats 0%)
+// Runtime  : 148 ms (beats 88%)
+// Memory   : 69672000 (beats 39%)
 // Language : javascript
 // Copyright: (c) 2026 karthi206. All rights reserved.
 // Synced by: leetie
