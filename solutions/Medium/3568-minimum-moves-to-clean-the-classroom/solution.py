@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Hash Table, Bit Manipulation, Breadth-First Search, Matrix
 # Link     : https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19472000 (beats 0%)
+# Runtime  : 1553 ms (beats 89%)
+# Memory   : 24884000 (beats 86%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
