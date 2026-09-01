@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 159 Solved
+## Progress Summary: 160 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -55,6 +55,7 @@
 | market-analysis-i | Market Analysis I | Medium | mysql | [Problem](https://leetcode.com/problems/market-analysis-i/) | [Solution](./solutions/Medium/1158-market-analysis-i/solution.sql) |
 | maximum-product-of-word-lengths | Maximum Product of Word Lengths | Medium | python3 | [Problem](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [Solution](./solutions/Medium/0318-maximum-product-of-word-lengths/solution.py) |
 | maximum-repeating-substring | Maximum Repeating Substring | Easy | python3 | [Problem](https://leetcode.com/problems/maximum-repeating-substring/) | [Solution](./solutions/Easy/1668-maximum-repeating-substring/solution.py) |
+| memoize-ii | Memoize II | Hard | javascript | [Problem](https://leetcode.com/problems/memoize-ii/) | [Solution](./solutions/Hard/2630-memoize-ii/solution.js) |
 | minimum-distance-between-bst-nodes | Minimum Distance Between BST Nodes | Easy | python3 | [Problem](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Solution](./solutions/Easy/0783-minimum-distance-between-bst-nodes/solution.py) |
 | minimum-moves-to-clean-the-classroom | Minimum Moves to Clean the Classroom | Medium | python3 | [Problem](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | [Solution](./solutions/Medium/3568-minimum-moves-to-clean-the-classroom/solution.py) |
 | monthly-transactions-i | Monthly Transactions I | Medium | mysql | [Problem](https://leetcode.com/problems/monthly-transactions-i/) | [Solution](./solutions/Medium/1193-monthly-transactions-i/solution.sql) |
