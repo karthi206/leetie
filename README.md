@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 166 Solved
+## Progress Summary: 167 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -26,6 +26,7 @@
 | counter | Counter | Easy | javascript | [Problem](https://leetcode.com/problems/counter/) | [Solution](./solutions/Easy/2620-counter/solution.js) |
 | customers-who-bought-all-products | Customers Who Bought All Products | Medium | mysql | [Problem](https://leetcode.com/problems/customers-who-bought-all-products/) | [Solution](./solutions/Medium/1045-customers-who-bought-all-products/solution.sql) |
 | debounce | Debounce | Medium | javascript | [Problem](https://leetcode.com/problems/debounce/) | [Solution](./solutions/Medium/2627-debounce/solution.js) |
+| design-cancellable-function | Design Cancellable Function | Hard | javascript | [Problem](https://leetcode.com/problems/design-cancellable-function/) | [Solution](./solutions/Hard/2650-design-cancellable-function/solution.js) |
 | dna-pattern-recognition | DNA Pattern Recognition | Medium | mysql | [Problem](https://leetcode.com/problems/dna-pattern-recognition/) | [Solution](./solutions/Medium/3475-dna-pattern-recognition/solution.sql) |
 | exchange-seats | Exchange Seats | Medium | mysql | [Problem](https://leetcode.com/problems/exchange-seats/) | [Solution](./solutions/Medium/0626-exchange-seats/solution.sql) |
 | filter-elements-from-array | Filter Elements from Array | Easy | javascript | [Problem](https://leetcode.com/problems/filter-elements-from-array/) | [Solution](./solutions/Easy/2634-filter-elements-from-array/solution.js) |
@@ -83,7 +84,6 @@
 | repeated-substring-pattern | Repeated Substring Pattern | Easy | python3 | [Problem](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution](./solutions/Easy/0459-repeated-substring-pattern/solution.py) |
 | restaurant-growth | Restaurant Growth | Medium | mysql | [Problem](https://leetcode.com/problems/restaurant-growth/) | [Solution](./solutions/Medium/1321-restaurant-growth/solution.sql) |
 | sales-analysis-iii | Sales Analysis III | Easy | mysql | [Problem](https://leetcode.com/problems/sales-analysis-iii/) | [Solution](./solutions/Easy/1084-sales-analysis-iii/solution.sql) |
-| search-a-2d-matrix-ii | Search a 2D Matrix II | Medium | python3 | [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./solutions/Medium/0240-search-a-2d-matrix-ii/solution.py) |
 | shortest-distance-to-a-character | Shortest Distance to a Character | Easy | python3 | [Problem](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Solution](./solutions/Easy/0821-shortest-distance-to-a-character/solution.py) |
 | shortest-palindrome | Shortest Palindrome | Hard | python3 | [Problem](https://leetcode.com/problems/shortest-palindrome/) | [Solution](./solutions/Hard/0214-shortest-palindrome/solution.py) |
 | sleep | Sleep | Easy | javascript | [Problem](https://leetcode.com/problems/sleep/) | [Solution](./solutions/Easy/2621-sleep/solution.js) |
@@ -157,13 +157,14 @@
 | perfect-squares | Perfect Squares | Medium | python3 | [Problem](https://leetcode.com/problems/perfect-squares/) | [Solution](./solutions/Medium/0279-perfect-squares/solution.py) |
 | rectangle-area | Rectangle Area | Medium | python3 | [Problem](https://leetcode.com/problems/rectangle-area/) | [Solution](./solutions/Medium/0223-rectangle-area/solution.py) |
 | sales-person | 607. Sales Person | Easy | mysql | [Problem](https://leetcode.com/problems/sales-person/) | [Solution](./solutions/Easy/0607-sales-person/solution.sql) |
-| not-boring-movies | 620. Not Boring Movies | Easy | mysql | [Problem](https://leetcode.com/problems/not-boring-movies/) | [Solution](./solutions/Easy/0620-not-boring-movies/solution.sql) |
+| search-a-2d-matrix-ii | Search a 2D Matrix II | Medium | python3 | [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./solutions/Medium/0240-search-a-2d-matrix-ii/solution.py) |
 | shortest-and-lexicographically-smallest-beautiful-string | Shortest and Lexicographically Smallest Beautiful String | Medium | python3 | [Problem](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | [Solution](./solutions/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/solution.py) |
 | single-number-iii | Single Number III | Medium | python3 | [Problem](https://leetcode.com/problems/single-number-iii/) | [Solution](./solutions/Medium/0260-single-number-iii/solution.py) |
 | substring-with-concatenation-of-all-words | 30. Substring With Concatenation Of All Words | Hard | python3 | [Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Solution](./solutions/Hard/0030-substring-with-concatenation-of-all-words/solution.py) |
 | text-justification | 68. Text Justification | Hard | python3 | [Problem](https://leetcode.com/problems/text-justification/) | [Solution](./solutions/Hard/0068-text-justification/solution.py) |
 | maximal-rectangle | 85. Maximal Rectangle | Hard | python3 | [Problem](https://leetcode.com/problems/maximal-rectangle/) | [Solution](./solutions/Hard/0085-maximal-rectangle/solution.py) |
 | triangle-judgement | 610. Triangle Judgement | Easy | mysql | [Problem](https://leetcode.com/problems/triangle-judgement/) | [Solution](./solutions/Easy/0610-triangle-judgement/solution.sql) |
+| not-boring-movies | 620. Not Boring Movies | Easy | mysql | [Problem](https://leetcode.com/problems/not-boring-movies/) | [Solution](./solutions/Easy/0620-not-boring-movies/solution.sql) |
 | swap-sex-of-employees | 627. Swap Sex Of Employees | Easy | mysql | [Problem](https://leetcode.com/problems/swap-sex-of-employees/) | [Solution](./solutions/Easy/0627-swap-sex-of-employees/solution.sql) |
 | toeplitz-matrix | 766. Toeplitz Matrix | Easy | python3 | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.py) |
 | smallest-missing-multiple-of-k | 3718. Smallest Missing Multiple Of K | Easy | python3 | [Problem](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [Solution](./solutions/Easy/3718-smallest-missing-multiple-of-k/solution.py) |
