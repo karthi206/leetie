@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 165 Solved
+## Progress Summary: 166 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -62,6 +62,7 @@
 | minimum-moves-to-clean-the-classroom | Minimum Moves to Clean the Classroom | Medium | python3 | [Problem](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | [Solution](./solutions/Medium/3568-minimum-moves-to-clean-the-classroom/solution.py) |
 | monthly-transactions-i | Monthly Transactions I | Medium | mysql | [Problem](https://leetcode.com/problems/monthly-transactions-i/) | [Solution](./solutions/Medium/1193-monthly-transactions-i/solution.sql) |
 | most-common-word | Most Common Word | Easy | python3 | [Problem](https://leetcode.com/problems/most-common-word/) | [Solution](./solutions/Easy/0819-most-common-word/solution.py) |
+| nested-array-generator | Nested Array Generator | Medium | javascript | [Problem](https://leetcode.com/problems/nested-array-generator/) | [Solution](./solutions/Medium/2649-nested-array-generator/solution.js) |
 | number-of-digit-one | Number of Digit One | Hard | python3 | [Problem](https://leetcode.com/problems/number-of-digit-one/) | [Solution](./solutions/Hard/0233-number-of-digit-one/solution.py) |
 | number-of-lines-to-write-string | Number of Lines To Write String | Easy | python3 | [Problem](https://leetcode.com/problems/number-of-lines-to-write-string/) | [Solution](./solutions/Easy/0806-number-of-lines-to-write-string/solution.py) |
 | populating-next-right-pointers-in-each-node | 116. Populating Next Right Pointers In Each Node | Medium | python3 | [Problem](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution](./solutions/Medium/0116-populating-next-right-pointers-in-each-node/solution.py) |
