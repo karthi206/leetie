@@ -3,7 +3,7 @@
 -- Difficulty: Easy
 -- Tags     : Database
 -- Link     : https://leetcode.com/problems/students-and-examinations/
--- Runtime  : 945 ms (beats 92%)
+-- Runtime  : 912 ms (beats 96%)
 -- Memory   : 0B (beats 100%)
 -- Language : mysql
 -- Copyright: (c) 2026 karthi206. All rights reserved.
