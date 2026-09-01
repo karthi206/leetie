@@ -3,8 +3,8 @@
 -- Difficulty: Easy
 -- Tags     : Database
 -- Link     : https://leetcode.com/problems/article-views-i/
--- Runtime  : 77 ms (beats 0%)
--- Memory   : 0B (beats 0%)
+-- Runtime  : 453 ms (beats 55%)
+-- Memory   : 0B (beats 100%)
 -- Language : mysql
 -- Copyright: (c) 2026 karthi206. All rights reserved.
 -- Synced by: leetie
