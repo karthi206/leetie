@@ -3,8 +3,8 @@
 -- Difficulty: Easy
 -- Tags     : Database
 -- Link     : https://leetcode.com/problems/queries-quality-and-percentage/
--- Runtime  : 70 ms (beats 0%)
--- Memory   : 0B (beats 0%)
+-- Runtime  : 3176 ms (beats 5%)
+-- Memory   : 0B (beats 100%)
 -- Language : mysql
 -- Copyright: (c) 2026 karthi206. All rights reserved.
 -- Synced by: leetie
