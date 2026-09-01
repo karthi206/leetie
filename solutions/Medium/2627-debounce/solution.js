@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/debounce/
-// Runtime  : 53 ms (beats 39%)
-// Memory   : 53900000 (beats 66%)
+// Runtime  : 43 ms (beats 87%)
+// Memory   : 54236000 (beats 36%)
 // Language : javascript
 // Copyright: (c) 2026 karthi206. All rights reserved.
 // Synced by: leetie
