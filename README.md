@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 161 Solved
+## Progress Summary: 162 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -27,6 +27,7 @@
 | debounce | Debounce | Medium | javascript | [Problem](https://leetcode.com/problems/debounce/) | [Solution](./solutions/Medium/2627-debounce/solution.js) |
 | dna-pattern-recognition | DNA Pattern Recognition | Medium | mysql | [Problem](https://leetcode.com/problems/dna-pattern-recognition/) | [Solution](./solutions/Medium/3475-dna-pattern-recognition/solution.sql) |
 | exchange-seats | Exchange Seats | Medium | mysql | [Problem](https://leetcode.com/problems/exchange-seats/) | [Solution](./solutions/Medium/0626-exchange-seats/solution.sql) |
+| filter-elements-from-array | Filter Elements from Array | Easy | javascript | [Problem](https://leetcode.com/problems/filter-elements-from-array/) | [Solution](./solutions/Easy/2634-filter-elements-from-array/solution.js) |
 | find-invalid-ip-addresses | Find Invalid IP Addresses | Hard | mysql | [Problem](https://leetcode.com/problems/find-invalid-ip-addresses/) | [Solution](./solutions/Hard/3451-find-invalid-ip-addresses/solution.sql) |
 | find-products-with-valid-serial-numbers | Find Products with Valid Serial Numbers | Easy | mysql | [Problem](https://leetcode.com/problems/find-products-with-valid-serial-numbers/) | [Solution](./solutions/Easy/3465-find-products-with-valid-serial-numbers/solution.sql) |
 | find-students-who-improved | Find Students Who Improved | Medium | mysql | [Problem](https://leetcode.com/problems/find-students-who-improved/) | [Solution](./solutions/Medium/3421-find-students-who-improved/solution.sql) |
