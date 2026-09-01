@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 157 Solved
+## Progress Summary: 158 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -24,6 +24,7 @@
 | count-of-smaller-numbers-after-self | Count of Smaller Numbers After Self | Hard | python3 | [Problem](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Solution](./solutions/Hard/0315-count-of-smaller-numbers-after-self/solution.py) |
 | counter | Counter | Easy | javascript | [Problem](https://leetcode.com/problems/counter/) | [Solution](./solutions/Easy/2620-counter/solution.js) |
 | customers-who-bought-all-products | Customers Who Bought All Products | Medium | mysql | [Problem](https://leetcode.com/problems/customers-who-bought-all-products/) | [Solution](./solutions/Medium/1045-customers-who-bought-all-products/solution.sql) |
+| debounce | Debounce | Medium | javascript | [Problem](https://leetcode.com/problems/debounce/) | [Solution](./solutions/Medium/2627-debounce/solution.js) |
 | dna-pattern-recognition | DNA Pattern Recognition | Medium | mysql | [Problem](https://leetcode.com/problems/dna-pattern-recognition/) | [Solution](./solutions/Medium/3475-dna-pattern-recognition/solution.sql) |
 | exchange-seats | Exchange Seats | Medium | mysql | [Problem](https://leetcode.com/problems/exchange-seats/) | [Solution](./solutions/Medium/0626-exchange-seats/solution.sql) |
 | expression-add-operators | Expression Add Operators | Hard | python3 | [Problem](https://leetcode.com/problems/expression-add-operators/) | [Solution](./solutions/Hard/0282-expression-add-operators/solution.py) |
