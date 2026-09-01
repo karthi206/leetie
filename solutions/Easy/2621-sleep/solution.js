@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/sleep/
-// Runtime  : 37 ms (beats 0%)
-// Memory   : 53436000 (beats 0%)
+// Runtime  : 64 ms (beats 6%)
+// Memory   : 53768000 (beats 37%)
 // Language : javascript
 // Copyright: (c) 2026 karthi206. All rights reserved.
 // Synced by: leetie
