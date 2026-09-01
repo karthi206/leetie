@@ -3,16 +3,21 @@
 // Difficulty: Easy
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/sleep/
-// Runtime  : 36 ms (beats 88%)
-// Memory   : 52620000 (beats 91%)
+// Runtime  : 54 ms (beats 0%)
+// Memory   : 52152000 (beats 0%)
 // Language : javascript
 // Copyright: (c) 2026 karthi206. All rights reserved.
 // Synced by: leetie
 // ──────────────────────────────────────────────────
 
-function createCounter(start) {
-  let count = start;
-  return function() {
-    return count++;
-  }
+/**
+ * @param {number} millis
+ */
+async function sleep(millis) {
+    await new Promise(resolve => setTimeout(resolve, millis));
 }
+
+/** 
+ * let t = Date.now()
+ * sleep(100).then(() => console.log(Date.now() - t)) // 100
+ */
