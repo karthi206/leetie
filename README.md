@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 179 Solved
+## Progress Summary: 180 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -55,6 +55,7 @@
 | immediate-food-delivery-ii | Immediate Food Delivery II | Medium | mysql | [Problem](https://leetcode.com/problems/immediate-food-delivery-ii/) | [Solution](./solutions/Medium/1174-immediate-food-delivery-ii/solution.sql) |
 | investments-in-2016 | Investments in 2016 | Medium | mysql | [Problem](https://leetcode.com/problems/investments-in-2016/) | [Solution](./solutions/Medium/0585-investments-in-2016/solution.sql) |
 | kth-largest-element-in-an-array | Kth Largest Element in an Array | Medium | python3 | [Problem](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution](./solutions/Medium/0215-kth-largest-element-in-an-array/solution.py) |
+| largest-number | Largest Number | Medium | python3 | [Problem](https://leetcode.com/problems/largest-number/) | [Solution](./solutions/Medium/0179-largest-number/solution.py) |
 | last-person-to-fit-in-the-bus | Last Person to Fit in the Bus | Medium | mysql | [Problem](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) | [Solution](./solutions/Medium/1204-last-person-to-fit-in-the-bus/solution.sql) |
 | lemonade-change | Lemonade Change | Easy | python3 | [Problem](https://leetcode.com/problems/lemonade-change/) | [Solution](./solutions/Easy/0860-lemonade-change/solution.py) |
 | longest-happy-prefix | Longest Happy Prefix | Hard | python3 | [Problem](https://leetcode.com/problems/longest-happy-prefix/) | [Solution](./solutions/Hard/1392-longest-happy-prefix/solution.py) |
