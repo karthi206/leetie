@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/memoize/
-// Runtime  : 58 ms (beats 0%)
-// Memory   : 53780000 (beats 0%)
+// Runtime  : 272 ms (beats 35%)
+// Memory   : 94600000 (beats 70%)
 // Language : javascript
 // Copyright: (c) 2026 karthi206. All rights reserved.
 // Synced by: leetie
