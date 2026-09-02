@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 175 Solved
+## Progress Summary: 176 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -29,6 +29,7 @@
 | counter | Counter | Easy | javascript | [Problem](https://leetcode.com/problems/counter/) | [Solution](./solutions/Easy/2620-counter/solution.js) |
 | counter-ii | Counter II | Easy | javascript | [Problem](https://leetcode.com/problems/counter-ii/) | [Solution](./solutions/Easy/2665-counter-ii/solution.js) |
 | create-hello-world-function | Create Hello World Function | Easy | javascript | [Problem](https://leetcode.com/problems/create-hello-world-function/) | [Solution](./solutions/Easy/2667-create-hello-world-function/solution.js) |
+| create-maximum-number | Create Maximum Number | Hard | python3 | [Problem](https://leetcode.com/problems/create-maximum-number/) | [Solution](./solutions/Hard/0321-create-maximum-number/solution.py) |
 | customer-placing-the-largest-number-of-orders | 586. Customer Placing The Largest Number Of Orders | Easy | mysql | [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution](./solutions/Easy/0586-customer-placing-the-largest-number-of-orders/solution.sql) |
 | biggest-single-number | 619. Biggest Single Number | Easy | mysql | [Problem](https://leetcode.com/problems/biggest-single-number/) | [Solution](./solutions/Easy/0619-biggest-single-number/solution.sql) |
 | check-divisibility-by-digit-sum-and-product | 3622. Check Divisibility By Digit Sum And Product | Easy | python3 | [Problem](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | [Solution](./solutions/Easy/3622-check-divisibility-by-digit-sum-and-product/solution.py) |
