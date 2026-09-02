@@ -4,7 +4,7 @@
 # Tags     : Array, Bit Manipulation
 # Link     : https://leetcode.com/problems/single-number-ii/
 # Runtime  : 0 ms (beats 0%)
-# Memory   : 19436000 (beats 0%)
+# Memory   : 19340000 (beats 0%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
@@ -19,4 +19,6 @@ class Solution:
                 bit_sum+=(num>>i)&1
             if bit_sum %3 !=0:
                 result |=(1<<i)
+        if result>= (1<<31):
+            result-=(1<<32)
         return result 
