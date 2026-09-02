@@ -4,7 +4,7 @@
 # Tags     : Array, String, Greedy, Sorting
 # Link     : https://leetcode.com/problems/largest-number/
 # Runtime  : 0 ms (beats 0%)
-# Memory   : 19228000 (beats 0%)
+# Memory   : 19188000 (beats 0%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
@@ -24,4 +24,4 @@ class Solution:
         strs=list(map(str,nums))
         strs.sort(key=cmp_to_key(compare))
         result=''.join(strs)
-        return '0' if result[0] == 0 else result
+        return '0' if result[0] == '0' else result
