@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Dynamic Programming
 # Link     : https://leetcode.com/problems/count-the-number-of-inversions/
-# Runtime  : 46 ms (beats 0%)
-# Memory   : 19512000 (beats 0%)
+# Runtime  : 10200 ms (beats 7%)
+# Memory   : 145656000 (beats 6%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
