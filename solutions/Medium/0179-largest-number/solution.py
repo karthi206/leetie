@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, String, Greedy, Sorting
 # Link     : https://leetcode.com/problems/largest-number/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19188000 (beats 0%)
+# Runtime  : 3 ms (beats 63%)
+# Memory   : 19316000 (beats 26%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
