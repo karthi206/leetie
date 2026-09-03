@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : String, Stack, Tree, Binary Tree
 # Link     : https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19236000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 19088000 (beats 99%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
