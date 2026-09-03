@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Math, Bit Manipulation
 # Link     : https://leetcode.com/problems/sum-of-two-integers/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19084000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 19152000 (beats 88%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
