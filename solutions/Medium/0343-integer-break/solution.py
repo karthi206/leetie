@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Math, Dynamic Programming
 # Link     : https://leetcode.com/problems/integer-break/
-# Runtime  : 0 ms (beats 100%)
-# Memory   : 19256000 (beats 58%)
+# Runtime  : 0 ms (beats 0%)
+# Memory   : 19276000 (beats 0%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
