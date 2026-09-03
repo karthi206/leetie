@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Hash Table, String, Trie, Hash Function
 # Link     : https://leetcode.com/problems/palindrome-pairs/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19288000 (beats 0%)
+# Runtime  : 812 ms (beats 94%)
+# Memory   : 29928000 (beats 44%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
