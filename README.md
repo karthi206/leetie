@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 185 Solved
+## Progress Summary: 186 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -190,4 +190,5 @@
 | ugly-number-ii | Ugly Number II | Medium | python3 | [Problem](https://leetcode.com/problems/ugly-number-ii/) | [Solution](./solutions/Medium/0264-ugly-number-ii/solution.py) |
 | unique-morse-code-words | Unique Morse Code Words | Easy | python3 | [Problem](https://leetcode.com/problems/unique-morse-code-words/) | [Solution](./solutions/Easy/0804-unique-morse-code-words/solution.py) |
 | user-activity-for-the-past-30-days-i | User Activity for the Past 30 Days I | Easy | mysql | [Problem](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [Solution](./solutions/Easy/1141-user-activity-for-the-past-30-days-i/solution.sql) |
+| verify-preorder-serialization-of-a-binary-tree | Verify Preorder Serialization of a Binary Tree | Medium | python3 | [Problem](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [Solution](./solutions/Medium/0331-verify-preorder-serialization-of-a-binary-tree/solution.py) |
 | word-search-ii | Word Search II | Hard | python3 | [Problem](https://leetcode.com/problems/word-search-ii/) | [Solution](./solutions/Hard/0212-word-search-ii/solution.py) |
