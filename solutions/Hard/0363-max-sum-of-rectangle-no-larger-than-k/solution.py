@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Binary Search, Matrix, Prefix Sum, Ordered Set
 # Link     : https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
-# Runtime  : 498 ms (beats 83%)
-# Memory   : 20216000 (beats 14%)
+# Runtime  : 0 ms (beats 0%)
+# Memory   : 19352000 (beats 0%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
