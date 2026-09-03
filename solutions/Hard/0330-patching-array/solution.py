@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Greedy
 # Link     : https://leetcode.com/problems/patching-array/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19360000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 19196000 (beats 97%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
