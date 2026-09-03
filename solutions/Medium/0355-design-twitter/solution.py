@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Hash Table, Linked List, Design, Heap (Priority Queue)
 # Link     : https://leetcode.com/problems/design-twitter/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19896000 (beats 0%)
+# Runtime  : 3 ms (beats 98%)
+# Memory   : 28840000 (beats 30%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
