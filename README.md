@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 181 Solved
+## Progress Summary: 182 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -23,6 +23,7 @@
 | cache-with-time-limit | Cache With Time Limit | Medium | javascript | [Problem](https://leetcode.com/problems/cache-with-time-limit/) | [Solution](./solutions/Medium/2622-cache-with-time-limit/solution.js) |
 | check-if-object-instance-of-class | Check if Object Instance of Class | Medium | javascript | [Problem](https://leetcode.com/problems/check-if-object-instance-of-class/) | [Solution](./solutions/Medium/2618-check-if-object-instance-of-class/solution.js) |
 | construct-uniform-parity-array-i | Construct Uniform Parity Array I | Easy | python3 | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Solution](./solutions/Easy/3875-construct-uniform-parity-array-i/solution.py) |
+| construct-uniform-parity-array-ii | Construct Uniform Parity Array II | Medium | python3 | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Solution](./solutions/Medium/3876-construct-uniform-parity-array-ii/solution.py) |
 | count-of-smaller-numbers-after-self | Count of Smaller Numbers After Self | Hard | python3 | [Problem](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Solution](./solutions/Hard/0315-count-of-smaller-numbers-after-self/solution.py) |
 | count-the-number-of-inversions | Count the Number of Inversions | Hard | python3 | [Problem](https://leetcode.com/problems/count-the-number-of-inversions/) | [Solution](./solutions/Hard/3193-count-the-number-of-inversions/solution.py) |
 | counter | Counter | Easy | javascript | [Problem](https://leetcode.com/problems/counter/) | [Solution](./solutions/Easy/2620-counter/solution.js) |
