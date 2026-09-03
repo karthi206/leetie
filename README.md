@@ -2,12 +2,10 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 192 Solved
+## Progress Summary: 193 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
-| coin-change | Coin Change | Medium | python3 | [Problem](https://leetcode.com/problems/coin-change/) | [Solution](./solutions/Medium/0322-coin-change/solution.py) |
-| design-twitter | Design Twitter | Medium | python3 | [Problem](https://leetcode.com/problems/design-twitter/) | [Solution](./solutions/Medium/0355-design-twitter/solution.py) |
 | substring-with-concatenation-of-all-words | 30. Substring With Concatenation Of All Words | Hard | python3 | [Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Solution](./solutions/Hard/0030-substring-with-concatenation-of-all-words/solution.py) |
 | merge-intervals | 56. Merge Intervals | Medium | python3 | [Problem](https://leetcode.com/problems/merge-intervals/) | [Solution](./solutions/Medium/0056-merge-intervals/solution.py) |
 | text-justification | 68. Text Justification | Hard | python3 | [Problem](https://leetcode.com/problems/text-justification/) | [Solution](./solutions/Hard/0068-text-justification/solution.py) |
@@ -81,18 +79,15 @@
 | flatten-nested-list-iterator | 341. Flatten Nested List Iterator | Medium | python3 | [Problem](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Solution](./solutions/Medium/0341-flatten-nested-list-iterator/solution.py) |
 | water-and-jug-problem | 365. Water And Jug Problem | Medium | python3 | [Problem](https://leetcode.com/problems/water-and-jug-problem/) | [Solution](./solutions/Medium/0365-water-and-jug-problem/solution.py) |
 | mini-parser | 385. Mini Parser | Medium | python3 | [Problem](https://leetcode.com/problems/mini-parser/) | [Solution](./solutions/Medium/0385-mini-parser/solution.py) |
-| game-play-analysis-i | 511. Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |
 | game-play-analysis-iv | 550. Game Play Analysis Iv | Medium | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-iv/) | [Solution](./solutions/Medium/0550-game-play-analysis-iv/solution.sql) |
 | managers-with-at-least-5-direct-reports | 570. Managers With At Least 5 Direct Reports | Medium | mysql | [Problem](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | [Solution](./solutions/Medium/0570-managers-with-at-least-5-direct-reports/solution.sql) |
-| employee-bonus | 577. Employee Bonus | Easy | mysql | [Problem](https://leetcode.com/problems/employee-bonus/) | [Solution](./solutions/Easy/0577-employee-bonus/solution.sql) |
 | investments-in-2016 | 585. Investments In 2016 | Medium | mysql | [Problem](https://leetcode.com/problems/investments-in-2016/) | [Solution](./solutions/Medium/0585-investments-in-2016/solution.sql) |
-| customer-placing-the-largest-number-of-orders | 586. Customer Placing The Largest Number Of Orders | Easy | mysql | [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution](./solutions/Easy/0586-customer-placing-the-largest-number-of-orders/solution.sql) |
-| classes-with-at-least-5-students | 596. Classes With At Least 5 Students | Easy | mysql | [Problem](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Solution](./solutions/Easy/0596-classes-with-at-least-5-students/solution.sql) |
-| friend-requests-ii-who-has-the-most-friends | 602. Friend Requests Ii Who Has The Most Friends | Medium | mysql | [Problem](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | [Solution](./solutions/Medium/0602-friend-requests-ii-who-has-the-most-friends/solution.sql) |
-| tree-node | 608. Tree Node | Medium | mysql | [Problem](https://leetcode.com/problems/tree-node/) | [Solution](./solutions/Medium/0608-tree-node/solution.sql) |
-| biggest-single-number | 619. Biggest Single Number | Easy | mysql | [Problem](https://leetcode.com/problems/biggest-single-number/) | [Solution](./solutions/Easy/0619-biggest-single-number/solution.sql) |
-| exchange-seats | 626. Exchange Seats | Medium | mysql | [Problem](https://leetcode.com/problems/exchange-seats/) | [Solution](./solutions/Medium/0626-exchange-seats/solution.sql) |
-| customers-who-bought-all-products | 1045. Customers Who Bought All Products | Medium | mysql | [Problem](https://leetcode.com/problems/customers-who-bought-all-products/) | [Solution](./solutions/Medium/1045-customers-who-bought-all-products/solution.sql) |
+| big-countries | 595. Big Countries | Easy | mysql | [Problem](https://leetcode.com/problems/big-countries/) | [Solution](./solutions/Easy/0595-big-countries/solution.sql) |
+| coin-change | Coin Change | Medium | python3 | [Problem](https://leetcode.com/problems/coin-change/) | [Solution](./solutions/Medium/0322-coin-change/solution.py) |
+| data-stream-as-disjoint-intervals | Data Stream as Disjoint Intervals | Hard | python3 | [Problem](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | [Solution](./solutions/Hard/0352-data-stream-as-disjoint-intervals/solution.py) |
+| design-twitter | Design Twitter | Medium | python3 | [Problem](https://leetcode.com/problems/design-twitter/) | [Solution](./solutions/Medium/0355-design-twitter/solution.py) |
+| game-play-analysis-i | 511. Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |
+| find-customer-referee | 584. Find Customer Referee | Easy | mysql | [Problem](https://leetcode.com/problems/find-customer-referee/) | [Solution](./solutions/Easy/0584-find-customer-referee/solution.sql) |
 | integer-break | Integer Break | Medium | python3 | [Problem](https://leetcode.com/problems/integer-break/) | [Solution](./solutions/Medium/0343-integer-break/solution.py) |
 | number-of-1-bits | 191. Number Of 1 Bits | Easy | python3 | [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./solutions/Easy/0191-number-of-1-bits/solution.py) |
 | word-search-ii | 212. Word Search Ii | Hard | python3 | [Problem](https://leetcode.com/problems/word-search-ii/) | [Solution](./solutions/Hard/0212-word-search-ii/solution.py) |
@@ -118,12 +113,17 @@
 | palindrome-pairs | 336. Palindrome Pairs | Hard | python3 | [Problem](https://leetcode.com/problems/palindrome-pairs/) | [Solution](./solutions/Hard/0336-palindrome-pairs/solution.py) |
 | russian-doll-envelopes | 354. Russian Doll Envelopes | Hard | python3 | [Problem](https://leetcode.com/problems/russian-doll-envelopes/) | [Solution](./solutions/Hard/0354-russian-doll-envelopes/solution.py) |
 | repeated-substring-pattern | 459. Repeated Substring Pattern | Easy | python3 | [Problem](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution](./solutions/Easy/0459-repeated-substring-pattern/solution.py) |
-| find-customer-referee | 584. Find Customer Referee | Easy | mysql | [Problem](https://leetcode.com/problems/find-customer-referee/) | [Solution](./solutions/Easy/0584-find-customer-referee/solution.sql) |
-| big-countries | 595. Big Countries | Easy | mysql | [Problem](https://leetcode.com/problems/big-countries/) | [Solution](./solutions/Easy/0595-big-countries/solution.sql) |
+| employee-bonus | 577. Employee Bonus | Easy | mysql | [Problem](https://leetcode.com/problems/employee-bonus/) | [Solution](./solutions/Easy/0577-employee-bonus/solution.sql) |
+| customer-placing-the-largest-number-of-orders | 586. Customer Placing The Largest Number Of Orders | Easy | mysql | [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution](./solutions/Easy/0586-customer-placing-the-largest-number-of-orders/solution.sql) |
+| classes-with-at-least-5-students | 596. Classes With At Least 5 Students | Easy | mysql | [Problem](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Solution](./solutions/Easy/0596-classes-with-at-least-5-students/solution.sql) |
 | human-traffic-of-stadium | 601. Human Traffic Of Stadium | Hard | mysql | [Problem](https://leetcode.com/problems/human-traffic-of-stadium/) | [Solution](./solutions/Hard/0601-human-traffic-of-stadium/solution.sql) |
+| friend-requests-ii-who-has-the-most-friends | 602. Friend Requests Ii Who Has The Most Friends | Medium | mysql | [Problem](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | [Solution](./solutions/Medium/0602-friend-requests-ii-who-has-the-most-friends/solution.sql) |
 | sales-person | 607. Sales Person | Easy | mysql | [Problem](https://leetcode.com/problems/sales-person/) | [Solution](./solutions/Easy/0607-sales-person/solution.sql) |
+| tree-node | 608. Tree Node | Medium | mysql | [Problem](https://leetcode.com/problems/tree-node/) | [Solution](./solutions/Medium/0608-tree-node/solution.sql) |
 | triangle-judgement | 610. Triangle Judgement | Easy | mysql | [Problem](https://leetcode.com/problems/triangle-judgement/) | [Solution](./solutions/Easy/0610-triangle-judgement/solution.sql) |
+| biggest-single-number | 619. Biggest Single Number | Easy | mysql | [Problem](https://leetcode.com/problems/biggest-single-number/) | [Solution](./solutions/Easy/0619-biggest-single-number/solution.sql) |
 | not-boring-movies | 620. Not Boring Movies | Easy | mysql | [Problem](https://leetcode.com/problems/not-boring-movies/) | [Solution](./solutions/Easy/0620-not-boring-movies/solution.sql) |
+| exchange-seats | 626. Exchange Seats | Medium | mysql | [Problem](https://leetcode.com/problems/exchange-seats/) | [Solution](./solutions/Medium/0626-exchange-seats/solution.sql) |
 | swap-sex-of-employees | 627. Swap Sex Of Employees | Easy | mysql | [Problem](https://leetcode.com/problems/swap-sex-of-employees/) | [Solution](./solutions/Easy/0627-swap-sex-of-employees/solution.sql) |
 | toeplitz-matrix | 766. Toeplitz Matrix | Easy | python3 | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.py) |
 | minimum-distance-between-bst-nodes | 783. Minimum Distance Between Bst Nodes | Easy | python3 | [Problem](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Solution](./solutions/Easy/0783-minimum-distance-between-bst-nodes/solution.py) |
@@ -137,6 +137,7 @@
 | rectangle-overlap | 836. Rectangle Overlap | Easy | python3 | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.py) |
 | buddy-strings | 859. Buddy Strings | Easy | python3 | [Problem](https://leetcode.com/problems/buddy-strings/) | [Solution](./solutions/Easy/0859-buddy-strings/solution.py) |
 | lemonade-change | 860. Lemonade Change | Easy | python3 | [Problem](https://leetcode.com/problems/lemonade-change/) | [Solution](./solutions/Easy/0860-lemonade-change/solution.py) |
+| customers-who-bought-all-products | 1045. Customers Who Bought All Products | Medium | mysql | [Problem](https://leetcode.com/problems/customers-who-bought-all-products/) | [Solution](./solutions/Medium/1045-customers-who-bought-all-products/solution.sql) |
 | actors-and-directors-who-cooperated-at-least-three-times | 1050. Actors And Directors Who Cooperated At Least Three Times | Easy | mysql | [Problem](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [Solution](./solutions/Easy/1050-actors-and-directors-who-cooperated-at-least-three-times/solution.sql) |
 | product-sales-analysis-i | 1068. Product Sales Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/product-sales-analysis-i/) | [Solution](./solutions/Easy/1068-product-sales-analysis-i/solution.sql) |
 | product-sales-analysis-iii | 1070. Product Sales Analysis Iii | Medium | mysql | [Problem](https://leetcode.com/problems/product-sales-analysis-iii/) | [Solution](./solutions/Medium/1070-product-sales-analysis-iii/solution.sql) |
