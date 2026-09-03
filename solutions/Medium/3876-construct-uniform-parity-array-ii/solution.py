@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Math
 # Link     : https://leetcode.com/problems/construct-uniform-parity-array-ii/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19356000 (beats 0%)
+# Runtime  : 15 ms (beats 86%)
+# Memory   : 35420000 (beats 29%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
