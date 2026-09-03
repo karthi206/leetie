@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Linked List
 # Link     : https://leetcode.com/problems/odd-even-linked-list/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19300000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 21084000 (beats 77%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
