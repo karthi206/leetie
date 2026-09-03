@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 187 Solved
+## Progress Summary: 188 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -90,6 +90,7 @@
 | repeated-substring-pattern | Repeated Substring Pattern | Easy | python3 | [Problem](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution](./solutions/Easy/0459-repeated-substring-pattern/solution.py) |
 | restaurant-growth | Restaurant Growth | Medium | mysql | [Problem](https://leetcode.com/problems/restaurant-growth/) | [Solution](./solutions/Medium/1321-restaurant-growth/solution.sql) |
 | sales-analysis-iii | Sales Analysis III | Easy | mysql | [Problem](https://leetcode.com/problems/sales-analysis-iii/) | [Solution](./solutions/Easy/1084-sales-analysis-iii/solution.sql) |
+| self-crossing | Self Crossing | Hard | python3 | [Problem](https://leetcode.com/problems/self-crossing/) | [Solution](./solutions/Hard/0335-self-crossing/solution.py) |
 | shortest-distance-to-a-character | Shortest Distance to a Character | Easy | python3 | [Problem](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Solution](./solutions/Easy/0821-shortest-distance-to-a-character/solution.py) |
 | shortest-palindrome | Shortest Palindrome | Hard | python3 | [Problem](https://leetcode.com/problems/shortest-palindrome/) | [Solution](./solutions/Hard/0214-shortest-palindrome/solution.py) |
 | single-number-ii | Single Number II | Medium | python3 | [Problem](https://leetcode.com/problems/single-number-ii/) | [Solution](./solutions/Medium/0137-single-number-ii/solution.py) |
