@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 182 Solved
+## Progress Summary: 183 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -24,6 +24,7 @@
 | check-if-object-instance-of-class | Check if Object Instance of Class | Medium | javascript | [Problem](https://leetcode.com/problems/check-if-object-instance-of-class/) | [Solution](./solutions/Medium/2618-check-if-object-instance-of-class/solution.js) |
 | construct-uniform-parity-array-i | Construct Uniform Parity Array I | Easy | python3 | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Solution](./solutions/Easy/3875-construct-uniform-parity-array-i/solution.py) |
 | construct-uniform-parity-array-ii | Construct Uniform Parity Array II | Medium | python3 | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Solution](./solutions/Medium/3876-construct-uniform-parity-array-ii/solution.py) |
+| count-of-range-sum | Count of Range Sum | Hard | python3 | [Problem](https://leetcode.com/problems/count-of-range-sum/) | [Solution](./solutions/Hard/0327-count-of-range-sum/solution.py) |
 | count-of-smaller-numbers-after-self | Count of Smaller Numbers After Self | Hard | python3 | [Problem](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Solution](./solutions/Hard/0315-count-of-smaller-numbers-after-self/solution.py) |
 | count-the-number-of-inversions | Count the Number of Inversions | Hard | python3 | [Problem](https://leetcode.com/problems/count-the-number-of-inversions/) | [Solution](./solutions/Hard/3193-count-the-number-of-inversions/solution.py) |
 | counter | Counter | Easy | javascript | [Problem](https://leetcode.com/problems/counter/) | [Solution](./solutions/Easy/2620-counter/solution.js) |
@@ -85,7 +86,6 @@
 | project-employees-i | Project Employees I | Easy | mysql | [Problem](https://leetcode.com/problems/project-employees-i/) | [Solution](./solutions/Easy/1075-project-employees-i/solution.sql) |
 | promise-time-limit | Promise Time Limit | Medium | javascript | [Problem](https://leetcode.com/problems/promise-time-limit/) | [Solution](./solutions/Medium/2637-promise-time-limit/solution.js) |
 | queries-quality-and-percentage | Queries Quality and Percentage | Easy | mysql | [Problem](https://leetcode.com/problems/queries-quality-and-percentage/) | [Solution](./solutions/Easy/1211-queries-quality-and-percentage/solution.sql) |
-| range-sum-query-mutable | Range Sum Query - Mutable | Medium | python3 | [Problem](https://leetcode.com/problems/range-sum-query-mutable/) | [Solution](./solutions/Medium/0307-range-sum-query-mutable/solution.py) |
 | rectangle-overlap | Rectangle Overlap | Easy | python3 | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.py) |
 | reformat-department-table | Reformat Department Table | Easy | mysql | [Problem](https://leetcode.com/problems/reformat-department-table/) | [Solution](./solutions/Easy/1179-reformat-department-table/solution.sql) |
 | removing-minimum-and-maximum-from-array | Removing Minimum and Maximum From Array | Medium | python3 | [Problem](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | [Solution](./solutions/Medium/2091-removing-minimum-and-maximum-from-array/solution.py) |
@@ -154,9 +154,9 @@
 | different-ways-to-add-parentheses | Different Ways to Add Parentheses | Medium | python3 | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.py) |
 | employee-bonus | 577. Employee Bonus | Easy | mysql | [Problem](https://leetcode.com/problems/employee-bonus/) | [Solution](./solutions/Easy/0577-employee-bonus/solution.sql) |
 | expression-add-operators | Expression Add Operators | Hard | python3 | [Problem](https://leetcode.com/problems/expression-add-operators/) | [Solution](./solutions/Hard/0282-expression-add-operators/solution.py) |
-| find-customer-referee | 584. Find Customer Referee | Easy | mysql | [Problem](https://leetcode.com/problems/find-customer-referee/) | [Solution](./solutions/Easy/0584-find-customer-referee/solution.sql) |
 | game-of-life | Game of Life | Medium | python3 | [Problem](https://leetcode.com/problems/game-of-life/) | [Solution](./solutions/Medium/0289-game-of-life/solution.py) |
 | game-play-analysis-i | 511. Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |
+| find-customer-referee | 584. Find Customer Referee | Easy | mysql | [Problem](https://leetcode.com/problems/find-customer-referee/) | [Solution](./solutions/Easy/0584-find-customer-referee/solution.sql) |
 | big-countries | 595. Big Countries | Easy | mysql | [Problem](https://leetcode.com/problems/big-countries/) | [Solution](./solutions/Easy/0595-big-countries/solution.sql) |
 | classes-with-at-least-5-students | 596. Classes With At Least 5 Students | Easy | mysql | [Problem](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Solution](./solutions/Easy/0596-classes-with-at-least-5-students/solution.sql) |
 | h-index-ii | H-Index II | Medium | python3 | [Problem](https://leetcode.com/problems/h-index-ii/) | [Solution](./solutions/Medium/0275-h-index-ii/solution.py) |
@@ -172,6 +172,7 @@
 | peeking-iterator | Peeking Iterator | Medium | python3 | [Problem](https://leetcode.com/problems/peeking-iterator/) | [Solution](./solutions/Medium/0284-peeking-iterator/solution.py) |
 | perfect-squares | Perfect Squares | Medium | python3 | [Problem](https://leetcode.com/problems/perfect-squares/) | [Solution](./solutions/Medium/0279-perfect-squares/solution.py) |
 | range-sum-query-2d-immutable | Range Sum Query 2D - Immutable | Medium | python3 | [Problem](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Solution](./solutions/Medium/0304-range-sum-query-2d-immutable/solution.py) |
+| range-sum-query-mutable | Range Sum Query - Mutable | Medium | python3 | [Problem](https://leetcode.com/problems/range-sum-query-mutable/) | [Solution](./solutions/Medium/0307-range-sum-query-mutable/solution.py) |
 | rectangle-area | Rectangle Area | Medium | python3 | [Problem](https://leetcode.com/problems/rectangle-area/) | [Solution](./solutions/Medium/0223-rectangle-area/solution.py) |
 | remove-invalid-parentheses | Remove Invalid Parentheses | Hard | python3 | [Problem](https://leetcode.com/problems/remove-invalid-parentheses/) | [Solution](./solutions/Hard/0301-remove-invalid-parentheses/solution.py) |
 | substring-with-concatenation-of-all-words | 30. Substring With Concatenation Of All Words | Hard | python3 | [Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Solution](./solutions/Hard/0030-substring-with-concatenation-of-all-words/solution.py) |
