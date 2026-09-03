@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Math, Divide and Conquer, Euler's Totient Function, Euler's Theorem
 # Link     : https://leetcode.com/problems/super-pow/
-# Runtime  : 39 ms (beats 25%)
-# Memory   : 19292000 (beats 77%)
+# Runtime  : 0 ms (beats 0%)
+# Memory   : 19500000 (beats 0%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
