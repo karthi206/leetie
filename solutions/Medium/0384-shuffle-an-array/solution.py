@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Math, Design, Randomized
 # Link     : https://leetcode.com/problems/shuffle-an-array/
-# Runtime  : 11 ms (beats 96%)
-# Memory   : 22708000 (beats 26%)
+# Runtime  : 0 ms (beats 0%)
+# Memory   : 19340000 (beats 0%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
