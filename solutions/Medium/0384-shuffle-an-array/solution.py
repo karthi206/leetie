@@ -3,22 +3,35 @@
 # Difficulty: Medium
 # Tags     : Array, Math, Design, Randomized
 # Link     : https://leetcode.com/problems/shuffle-an-array/
-# Runtime  : 14 ms (beats 66%)
-# Memory   : 23472000 (beats 34%)
+# Runtime  : 11 ms (beats 96%)
+# Memory   : 22708000 (beats 26%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
 # ──────────────────────────────────────────────────
 
+from random import randint
+
 
 class Solution:
+    def __init__(self, nums: List[int]):
+        self.duplicate = nums[:]
+        self.nums = nums
+        self.l = len(nums)
 
-    def __init__(self, head: ListNode):
-        self.nodes = []
-        while head:
-            self.nodes.append(head.val)
-            head = head.next
+        
+    def reset(self) -> List[int]:
+        self.nums[:] = self.duplicate
+        return self.nums
 
-    def getRandom(self) -> int:
-        i = random.randint(0, len(self.nodes) - 1)
-        return self.nodes[i]
+    
+    def shuffle(self) -> List[int]:
+        arr = self.nums
+        
+        
+        for i in range(self.l):
+            j = randint(i, self.l - 1)
+            arr[i], arr[j] = arr[j], arr[i]
+        
+        
+        return arr
