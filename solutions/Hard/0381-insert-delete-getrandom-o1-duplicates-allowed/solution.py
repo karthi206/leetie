@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Hash Table, Math, Design, Randomized
 # Link     : https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19344000 (beats 0%)
+# Runtime  : 98 ms (beats 79%)
+# Memory   : 68012000 (beats 29%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
