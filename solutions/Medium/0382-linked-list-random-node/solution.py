@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Linked List, Math, Reservoir Sampling, Randomized
 # Link     : https://leetcode.com/problems/linked-list-random-node/
-# Runtime  : 3 ms (beats 0%)
-# Memory   : 19364000 (beats 0%)
+# Runtime  : 15 ms (beats 65%)
+# Memory   : 22876000 (beats 91%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
