@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Math, Dynamic Programming
 # Link     : https://leetcode.com/problems/rotate-function/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19324000 (beats 0%)
+# Runtime  : 158 ms (beats 18%)
+# Memory   : 31292000 (beats 30%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
