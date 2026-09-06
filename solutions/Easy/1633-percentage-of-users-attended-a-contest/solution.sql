@@ -3,8 +3,8 @@
 -- Difficulty: Easy
 -- Tags     : Database
 -- Link     : https://leetcode.com/problems/percentage-of-users-attended-a-contest/
--- Runtime  : 1230 ms (beats 24%)
--- Memory   : 0B (beats 100%)
+-- Runtime  : 122 ms (beats 0%)
+-- Memory   : 0B (beats 0%)
 -- Language : mysql
 -- Copyright: (c) 2026 karthi206. All rights reserved.
 -- Synced by: leetie
