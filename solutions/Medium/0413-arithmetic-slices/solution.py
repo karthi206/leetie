@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Dynamic Programming, Sliding Window
 # Link     : https://leetcode.com/problems/arithmetic-slices/
-# Runtime  : 0 ms (beats 100%)
-# Memory   : 19508000 (beats 6%)
+# Runtime  : 0 ms (beats 0%)
+# Memory   : 19328000 (beats 0%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
