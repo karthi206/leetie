@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum
 # Link     : https://leetcode.com/problems/split-array-largest-sum/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19328000 (beats 0%)
+# Runtime  : 3 ms (beats 71%)
+# Memory   : 19384000 (beats 47%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
