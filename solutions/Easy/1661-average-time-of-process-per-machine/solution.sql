@@ -3,8 +3,8 @@
 -- Difficulty: Easy
 -- Tags     : Database
 -- Link     : https://leetcode.com/problems/average-time-of-process-per-machine/
--- Runtime  : 271 ms (beats 55%)
--- Memory   : 0B (beats 100%)
+-- Runtime  : 68 ms (beats 0%)
+-- Memory   : 0B (beats 0%)
 -- Language : mysql
 -- Copyright: (c) 2026 karthi206. All rights reserved.
 -- Synced by: leetie
