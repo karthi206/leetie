@@ -4,7 +4,7 @@
 # Tags     : Hash Table, String, Breadth-First Search, Bidirectional Search
 # Link     : https://leetcode.com/problems/minimum-genetic-mutation/
 # Runtime  : 0 ms (beats 100%)
-# Memory   : 19268000 (beats 78%)
+# Memory   : 19336000 (beats 41%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
