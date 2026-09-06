@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Dynamic Programming, Greedy, Bit Manipulation, Memoization
 # Link     : https://leetcode.com/problems/integer-replacement/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19460000 (beats 0%)
+# Runtime  : 3 ms (beats 20%)
+# Memory   : 19068000 (beats 100%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
