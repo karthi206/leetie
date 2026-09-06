@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : String, Dynamic Programming
 # Link     : https://leetcode.com/problems/distinct-subsequences/
-# Runtime  : 355 ms (beats 66%)
-# Memory   : 75712000 (beats 39%)
+# Runtime  : 359 ms (beats 65%)
+# Memory   : 75820000 (beats 33%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
