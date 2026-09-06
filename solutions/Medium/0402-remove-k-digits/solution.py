@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : String, Stack, Greedy, Monotonic Stack
 # Link     : https://leetcode.com/problems/remove-k-digits/
-# Runtime  : 19 ms (beats 79%)
-# Memory   : 20508000 (beats 32%)
+# Runtime  : 20 ms (beats 57%)
+# Memory   : 20576000 (beats 32%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
