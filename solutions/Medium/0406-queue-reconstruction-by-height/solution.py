@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Binary Indexed Tree, Segment Tree, Sorting
 # Link     : https://leetcode.com/problems/queue-reconstruction-by-height/
-# Runtime  : 5 ms (beats 35%)
-# Memory   : 19684000 (beats 72%)
+# Runtime  : 6 ms (beats 29%)
+# Memory   : 19624000 (beats 72%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
