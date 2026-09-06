@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Math, Recursion
 # Link     : https://leetcode.com/problems/elimination-game/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19440000 (beats 0%)
+# Runtime  : 7 ms (beats 19%)
+# Memory   : 19236000 (beats 68%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
