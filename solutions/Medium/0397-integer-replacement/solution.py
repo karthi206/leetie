@@ -3,15 +3,14 @@
 # Difficulty: Medium
 # Tags     : Dynamic Programming, Greedy, Bit Manipulation, Memoization
 # Link     : https://leetcode.com/problems/integer-replacement/
-# Runtime  : 3 ms (beats 20%)
-# Memory   : 19068000 (beats 100%)
+# Runtime  : 2 ms (beats 23%)
+# Memory   : 19340000 (beats 34%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
 # ──────────────────────────────────────────────────
 
 class Solution:
-    # please upvote :)
     def integerReplacement(self, n: int) -> int:
         cnt = 0
         while n != 1:
