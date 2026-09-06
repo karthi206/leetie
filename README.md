@@ -2,23 +2,13 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 232 Solved
+## Progress Summary: 233 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | average-time-of-process-per-machine | Average Time of Process per Machine | Easy | mysql | [Problem](https://leetcode.com/problems/average-time-of-process-per-machine/) | [Solution](./solutions/Easy/1661-average-time-of-process-per-machine/solution.sql) |
 | bank-account-summary-ii | Bank Account Summary II | Easy | mysql | [Problem](https://leetcode.com/problems/bank-account-summary-ii/) | [Solution](./solutions/Easy/1587-bank-account-summary-ii/solution.sql) |
-| biggest-single-number | 619. Biggest Single Number | Easy | mysql | [Problem](https://leetcode.com/problems/biggest-single-number/) | [Solution](./solutions/Easy/0619-biggest-single-number/solution.sql) |
 | capital-gainloss | Capital Gain/Loss | Medium | mysql | [Problem](https://leetcode.com/problems/capital-gainloss/) | [Solution](./solutions/Medium/1393-capital-gainloss/solution.sql) |
-| coin-change | Coin Change | Medium | python3 | [Problem](https://leetcode.com/problems/coin-change/) | [Solution](./solutions/Medium/0322-coin-change/solution.py) |
-| combination-sum-iv | Combination Sum IV | Medium | python3 | [Problem](https://leetcode.com/problems/combination-sum-iv/) | [Solution](./solutions/Medium/0377-combination-sum-iv/solution.py) |
-| count-numbers-with-unique-digits | Count Numbers with Unique Digits | Medium | python3 | [Problem](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Solution](./solutions/Medium/0357-count-numbers-with-unique-digits/solution.py) |
-| customer-who-visited-but-did-not-make-any-transactions | Customer Who Visited but Did Not Make Any Transactions | Easy | mysql | [Problem](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [Solution](./solutions/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/solution.sql) |
-| data-stream-as-disjoint-intervals | Data Stream as Disjoint Intervals | Hard | python3 | [Problem](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | [Solution](./solutions/Hard/0352-data-stream-as-disjoint-intervals/solution.py) |
-| decode-string | Decode String | Medium | python3 | [Problem](https://leetcode.com/problems/decode-string/) | [Solution](./solutions/Medium/0394-decode-string/solution.py) |
-| design-twitter | Design Twitter | Medium | python3 | [Problem](https://leetcode.com/problems/design-twitter/) | [Solution](./solutions/Medium/0355-design-twitter/solution.py) |
-| distinct-subsequences | Distinct Subsequences | Hard | python3 | [Problem](https://leetcode.com/problems/distinct-subsequences/) | [Solution](./solutions/Hard/0115-distinct-subsequences/solution.py) |
-| elimination-game | Elimination Game | Medium | python3 | [Problem](https://leetcode.com/problems/elimination-game/) | [Solution](./solutions/Medium/0390-elimination-game/solution.py) |
 | substring-with-concatenation-of-all-words | 30. Substring With Concatenation Of All Words | Hard | python3 | [Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Solution](./solutions/Hard/0030-substring-with-concatenation-of-all-words/solution.py) |
 | merge-intervals | 56. Merge Intervals | Medium | python3 | [Problem](https://leetcode.com/problems/merge-intervals/) | [Solution](./solutions/Medium/0056-merge-intervals/solution.py) |
 | text-justification | 68. Text Justification | Hard | python3 | [Problem](https://leetcode.com/problems/text-justification/) | [Solution](./solutions/Hard/0068-text-justification/solution.py) |
@@ -116,16 +106,26 @@
 | mini-parser | 385. Mini Parser | Medium | python3 | [Problem](https://leetcode.com/problems/mini-parser/) | [Solution](./solutions/Medium/0385-mini-parser/solution.py) |
 | game-play-analysis-iv | 550. Game Play Analysis Iv | Medium | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-iv/) | [Solution](./solutions/Medium/0550-game-play-analysis-iv/solution.sql) |
 | managers-with-at-least-5-direct-reports | 570. Managers With At Least 5 Direct Reports | Medium | mysql | [Problem](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | [Solution](./solutions/Medium/0570-managers-with-at-least-5-direct-reports/solution.sql) |
+| investments-in-2016 | 585. Investments In 2016 | Medium | mysql | [Problem](https://leetcode.com/problems/investments-in-2016/) | [Solution](./solutions/Medium/0585-investments-in-2016/solution.sql) |
+| classes-with-at-least-5-students | 596. Classes With At Least 5 Students | Easy | mysql | [Problem](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Solution](./solutions/Easy/0596-classes-with-at-least-5-students/solution.sql) |
+| coin-change | Coin Change | Medium | python3 | [Problem](https://leetcode.com/problems/coin-change/) | [Solution](./solutions/Medium/0322-coin-change/solution.py) |
+| combination-sum-iv | Combination Sum IV | Medium | python3 | [Problem](https://leetcode.com/problems/combination-sum-iv/) | [Solution](./solutions/Medium/0377-combination-sum-iv/solution.py) |
+| count-numbers-with-unique-digits | Count Numbers with Unique Digits | Medium | python3 | [Problem](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Solution](./solutions/Medium/0357-count-numbers-with-unique-digits/solution.py) |
+| customer-who-visited-but-did-not-make-any-transactions | Customer Who Visited but Did Not Make Any Transactions | Easy | mysql | [Problem](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [Solution](./solutions/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/solution.sql) |
+| data-stream-as-disjoint-intervals | Data Stream as Disjoint Intervals | Hard | python3 | [Problem](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | [Solution](./solutions/Hard/0352-data-stream-as-disjoint-intervals/solution.py) |
+| decode-string | Decode String | Medium | python3 | [Problem](https://leetcode.com/problems/decode-string/) | [Solution](./solutions/Medium/0394-decode-string/solution.py) |
+| design-twitter | Design Twitter | Medium | python3 | [Problem](https://leetcode.com/problems/design-twitter/) | [Solution](./solutions/Medium/0355-design-twitter/solution.py) |
+| distinct-subsequences | Distinct Subsequences | Hard | python3 | [Problem](https://leetcode.com/problems/distinct-subsequences/) | [Solution](./solutions/Hard/0115-distinct-subsequences/solution.py) |
+| elimination-game | Elimination Game | Medium | python3 | [Problem](https://leetcode.com/problems/elimination-game/) | [Solution](./solutions/Medium/0390-elimination-game/solution.py) |
 | employee-bonus | 577. Employee Bonus | Easy | mysql | [Problem](https://leetcode.com/problems/employee-bonus/) | [Solution](./solutions/Easy/0577-employee-bonus/solution.sql) |
 | evaluate-division | Evaluate Division | Medium | python3 | [Problem](https://leetcode.com/problems/evaluate-division/) | [Solution](./solutions/Medium/0399-evaluate-division/solution.py) |
 | find-customer-referee | 584. Find Customer Referee | Easy | mysql | [Problem](https://leetcode.com/problems/find-customer-referee/) | [Solution](./solutions/Easy/0584-find-customer-referee/solution.sql) |
-| investments-in-2016 | 585. Investments In 2016 | Medium | mysql | [Problem](https://leetcode.com/problems/investments-in-2016/) | [Solution](./solutions/Medium/0585-investments-in-2016/solution.sql) |
 | customer-placing-the-largest-number-of-orders | 586. Customer Placing The Largest Number Of Orders | Easy | mysql | [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution](./solutions/Easy/0586-customer-placing-the-largest-number-of-orders/solution.sql) |
 | big-countries | 595. Big Countries | Easy | mysql | [Problem](https://leetcode.com/problems/big-countries/) | [Solution](./solutions/Easy/0595-big-countries/solution.sql) |
 | find-k-pairs-with-smallest-sums | Find K Pairs with Smallest Sums | Medium | python3 | [Problem](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Solution](./solutions/Medium/0373-find-k-pairs-with-smallest-sums/solution.py) |
 | friendly-movies-streamed-last-month | Friendly Movies Streamed Last Month | Easy | mysql | [Problem](https://leetcode.com/problems/friendly-movies-streamed-last-month/) | [Solution](./solutions/Easy/1495-friendly-movies-streamed-last-month/solution.sql) |
 | game-play-analysis-i | 511. Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |
-| classes-with-at-least-5-students | 596. Classes With At Least 5 Students | Easy | mysql | [Problem](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Solution](./solutions/Easy/0596-classes-with-at-least-5-students/solution.sql) |
+| biggest-single-number | 619. Biggest Single Number | Easy | mysql | [Problem](https://leetcode.com/problems/biggest-single-number/) | [Solution](./solutions/Easy/0619-biggest-single-number/solution.sql) |
 | group-sold-products-by-the-date | Group Sold Products By The Date | Easy | mysql | [Problem](https://leetcode.com/problems/group-sold-products-by-the-date/) | [Solution](./solutions/Easy/1484-group-sold-products-by-the-date/solution.sql) |
 | guess-number-higher-or-lower-ii | Guess Number Higher or Lower II | Medium | python3 | [Problem](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [Solution](./solutions/Medium/0375-guess-number-higher-or-lower-ii/solution.py) |
 | human-traffic-of-stadium | 601. Human Traffic Of Stadium | Hard | mysql | [Problem](https://leetcode.com/problems/human-traffic-of-stadium/) | [Solution](./solutions/Hard/0601-human-traffic-of-stadium/solution.sql) |
@@ -143,25 +143,19 @@
 | longest-substring-with-at-least-k-repeating-characters | Longest Substring with At Least K Repeating Characters | Medium | python3 | [Problem](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [Solution](./solutions/Medium/0395-longest-substring-with-at-least-k-repeating-characters/solution.py) |
 | max-sum-of-rectangle-no-larger-than-k | Max Sum of Rectangle No Larger Than K | Hard | python3 | [Problem](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [Solution](./solutions/Hard/0363-max-sum-of-rectangle-no-larger-than-k/solution.py) |
 | movie-rating | Movie Rating | Medium | mysql | [Problem](https://leetcode.com/problems/movie-rating/) | [Solution](./solutions/Medium/1341-movie-rating/solution.sql) |
+| not-boring-movies | 620. Not Boring Movies | Easy | mysql | [Problem](https://leetcode.com/problems/not-boring-movies/) | [Solution](./solutions/Easy/0620-not-boring-movies/solution.sql) |
 | nth-digit | Nth Digit | Medium | python3 | [Problem](https://leetcode.com/problems/nth-digit/) | [Solution](./solutions/Medium/0400-nth-digit/solution.py) |
 | number-of-1-bits | 191. Number Of 1 Bits | Easy | python3 | [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./solutions/Easy/0191-number-of-1-bits/solution.py) |
-| tree-node | 608. Tree Node | Medium | mysql | [Problem](https://leetcode.com/problems/tree-node/) | [Solution](./solutions/Medium/0608-tree-node/solution.sql) |
-| not-boring-movies | 620. Not Boring Movies | Easy | mysql | [Problem](https://leetcode.com/problems/not-boring-movies/) | [Solution](./solutions/Easy/0620-not-boring-movies/solution.sql) |
-| exchange-seats | 626. Exchange Seats | Medium | mysql | [Problem](https://leetcode.com/problems/exchange-seats/) | [Solution](./solutions/Medium/0626-exchange-seats/solution.sql) |
-| customers-who-bought-all-products | 1045. Customers Who Bought All Products | Medium | mysql | [Problem](https://leetcode.com/problems/customers-who-bought-all-products/) | [Solution](./solutions/Medium/1045-customers-who-bought-all-products/solution.sql) |
 | patients-with-a-condition | Patients With a Condition | Easy | mysql | [Problem](https://leetcode.com/problems/patients-with-a-condition/) | [Solution](./solutions/Easy/1527-patients-with-a-condition/solution.sql) |
 | percentage-of-users-attended-a-contest | Percentage of Users Attended a Contest | Easy | mysql | [Problem](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | [Solution](./solutions/Easy/1633-percentage-of-users-attended-a-contest/solution.sql) |
 | perfect-rectangle | Perfect Rectangle | Hard | python3 | [Problem](https://leetcode.com/problems/perfect-rectangle/) | [Solution](./solutions/Hard/0391-perfect-rectangle/solution.py) |
-| product-sales-analysis-iii | 1070. Product Sales Analysis Iii | Medium | mysql | [Problem](https://leetcode.com/problems/product-sales-analysis-iii/) | [Solution](./solutions/Medium/1070-product-sales-analysis-iii/solution.sql) |
-| market-analysis-i | 1158. Market Analysis I | Medium | mysql | [Problem](https://leetcode.com/problems/market-analysis-i/) | [Solution](./solutions/Medium/1158-market-analysis-i/solution.sql) |
-| product-price-at-a-given-date | 1164. Product Price At A Given Date | Medium | mysql | [Problem](https://leetcode.com/problems/product-price-at-a-given-date/) | [Solution](./solutions/Medium/1164-product-price-at-a-given-date/solution.sql) |
-| immediate-food-delivery-ii | 1174. Immediate Food Delivery Ii | Medium | mysql | [Problem](https://leetcode.com/problems/immediate-food-delivery-ii/) | [Solution](./solutions/Medium/1174-immediate-food-delivery-ii/solution.sql) |
-| monthly-transactions-i | 1193. Monthly Transactions I | Medium | mysql | [Problem](https://leetcode.com/problems/monthly-transactions-i/) | [Solution](./solutions/Medium/1193-monthly-transactions-i/solution.sql) |
-| last-person-to-fit-in-the-bus | 1204. Last Person To Fit In The Bus | Medium | mysql | [Problem](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) | [Solution](./solutions/Medium/1204-last-person-to-fit-in-the-bus/solution.sql) |
-| longest-happy-prefix | 1392. Longest Happy Prefix | Hard | python3 | [Problem](https://leetcode.com/problems/longest-happy-prefix/) | [Solution](./solutions/Hard/1392-longest-happy-prefix/solution.py) |
 | random-pick-index | Random Pick Index | Medium | python3 | [Problem](https://leetcode.com/problems/random-pick-index/) | [Solution](./solutions/Medium/0398-random-pick-index/solution.py) |
+| remove-k-digits | Remove K Digits | Medium | python3 | [Problem](https://leetcode.com/problems/remove-k-digits/) | [Solution](./solutions/Medium/0402-remove-k-digits/solution.py) |
 | repeated-substring-pattern | 459. Repeated Substring Pattern | Easy | python3 | [Problem](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution](./solutions/Easy/0459-repeated-substring-pattern/solution.py) |
 | sales-person | 607. Sales Person | Easy | mysql | [Problem](https://leetcode.com/problems/sales-person/) | [Solution](./solutions/Easy/0607-sales-person/solution.sql) |
+| tree-node | 608. Tree Node | Medium | mysql | [Problem](https://leetcode.com/problems/tree-node/) | [Solution](./solutions/Medium/0608-tree-node/solution.sql) |
+| exchange-seats | 626. Exchange Seats | Medium | mysql | [Problem](https://leetcode.com/problems/exchange-seats/) | [Solution](./solutions/Medium/0626-exchange-seats/solution.sql) |
+| toeplitz-matrix | 766. Toeplitz Matrix | Easy | python3 | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.py) |
 | minimum-distance-between-bst-nodes | 783. Minimum Distance Between Bst Nodes | Easy | python3 | [Problem](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Solution](./solutions/Easy/0783-minimum-distance-between-bst-nodes/solution.py) |
 | unique-morse-code-words | 804. Unique Morse Code Words | Easy | python3 | [Problem](https://leetcode.com/problems/unique-morse-code-words/) | [Solution](./solutions/Easy/0804-unique-morse-code-words/solution.py) |
 | number-of-lines-to-write-string | 806. Number Of Lines To Write String | Easy | python3 | [Problem](https://leetcode.com/problems/number-of-lines-to-write-string/) | [Solution](./solutions/Easy/0806-number-of-lines-to-write-string/solution.py) |
@@ -173,17 +167,25 @@
 | rectangle-overlap | 836. Rectangle Overlap | Easy | python3 | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.py) |
 | buddy-strings | 859. Buddy Strings | Easy | python3 | [Problem](https://leetcode.com/problems/buddy-strings/) | [Solution](./solutions/Easy/0859-buddy-strings/solution.py) |
 | lemonade-change | 860. Lemonade Change | Easy | python3 | [Problem](https://leetcode.com/problems/lemonade-change/) | [Solution](./solutions/Easy/0860-lemonade-change/solution.py) |
+| customers-who-bought-all-products | 1045. Customers Who Bought All Products | Medium | mysql | [Problem](https://leetcode.com/problems/customers-who-bought-all-products/) | [Solution](./solutions/Medium/1045-customers-who-bought-all-products/solution.sql) |
 | actors-and-directors-who-cooperated-at-least-three-times | 1050. Actors And Directors Who Cooperated At Least Three Times | Easy | mysql | [Problem](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [Solution](./solutions/Easy/1050-actors-and-directors-who-cooperated-at-least-three-times/solution.sql) |
 | product-sales-analysis-i | 1068. Product Sales Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/product-sales-analysis-i/) | [Solution](./solutions/Easy/1068-product-sales-analysis-i/solution.sql) |
+| product-sales-analysis-iii | 1070. Product Sales Analysis Iii | Medium | mysql | [Problem](https://leetcode.com/problems/product-sales-analysis-iii/) | [Solution](./solutions/Medium/1070-product-sales-analysis-iii/solution.sql) |
 | project-employees-i | 1075. Project Employees I | Easy | mysql | [Problem](https://leetcode.com/problems/project-employees-i/) | [Solution](./solutions/Easy/1075-project-employees-i/solution.sql) |
 | sales-analysis-iii | 1084. Sales Analysis Iii | Easy | mysql | [Problem](https://leetcode.com/problems/sales-analysis-iii/) | [Solution](./solutions/Easy/1084-sales-analysis-iii/solution.sql) |
 | user-activity-for-the-past-30-days-i | 1141. User Activity For The Past 30 Days I | Easy | mysql | [Problem](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [Solution](./solutions/Easy/1141-user-activity-for-the-past-30-days-i/solution.sql) |
 | article-views-i | 1148. Article Views I | Easy | mysql | [Problem](https://leetcode.com/problems/article-views-i/) | [Solution](./solutions/Easy/1148-article-views-i/solution.sql) |
+| market-analysis-i | 1158. Market Analysis I | Medium | mysql | [Problem](https://leetcode.com/problems/market-analysis-i/) | [Solution](./solutions/Medium/1158-market-analysis-i/solution.sql) |
+| product-price-at-a-given-date | 1164. Product Price At A Given Date | Medium | mysql | [Problem](https://leetcode.com/problems/product-price-at-a-given-date/) | [Solution](./solutions/Medium/1164-product-price-at-a-given-date/solution.sql) |
+| immediate-food-delivery-ii | 1174. Immediate Food Delivery Ii | Medium | mysql | [Problem](https://leetcode.com/problems/immediate-food-delivery-ii/) | [Solution](./solutions/Medium/1174-immediate-food-delivery-ii/solution.sql) |
 | reformat-department-table | 1179. Reformat Department Table | Easy | mysql | [Problem](https://leetcode.com/problems/reformat-department-table/) | [Solution](./solutions/Easy/1179-reformat-department-table/solution.sql) |
+| monthly-transactions-i | 1193. Monthly Transactions I | Medium | mysql | [Problem](https://leetcode.com/problems/monthly-transactions-i/) | [Solution](./solutions/Medium/1193-monthly-transactions-i/solution.sql) |
+| last-person-to-fit-in-the-bus | 1204. Last Person To Fit In The Bus | Medium | mysql | [Problem](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) | [Solution](./solutions/Medium/1204-last-person-to-fit-in-the-bus/solution.sql) |
 | queries-quality-and-percentage | 1211. Queries Quality And Percentage | Easy | mysql | [Problem](https://leetcode.com/problems/queries-quality-and-percentage/) | [Solution](./solutions/Easy/1211-queries-quality-and-percentage/solution.sql) |
 | average-selling-price | 1251. Average Selling Price | Easy | mysql | [Problem](https://leetcode.com/problems/average-selling-price/) | [Solution](./solutions/Easy/1251-average-selling-price/solution.sql) |
 | students-and-examinations | 1280. Students And Examinations | Easy | mysql | [Problem](https://leetcode.com/problems/students-and-examinations/) | [Solution](./solutions/Easy/1280-students-and-examinations/solution.sql) |
 | restaurant-growth | 1321. Restaurant Growth | Medium | mysql | [Problem](https://leetcode.com/problems/restaurant-growth/) | [Solution](./solutions/Medium/1321-restaurant-growth/solution.sql) |
+| longest-happy-prefix | 1392. Longest Happy Prefix | Hard | python3 | [Problem](https://leetcode.com/problems/longest-happy-prefix/) | [Solution](./solutions/Hard/1392-longest-happy-prefix/solution.py) |
 | maximum-repeating-substring | 1668. Maximum Repeating Substring | Easy | python3 | [Problem](https://leetcode.com/problems/maximum-repeating-substring/) | [Solution](./solutions/Easy/1668-maximum-repeating-substring/solution.py) |
 | stone-game-viii | 1872. Stone Game Viii | Hard | python3 | [Problem](https://leetcode.com/problems/stone-game-viii/) | [Solution](./solutions/Hard/1872-stone-game-viii/solution.py) |
 | find-the-minimum-and-maximum-number-of-nodes-between-critical-points | 2058. Find The Minimum And Maximum Number Of Nodes Between Critical Points | Medium | python3 | [Problem](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Solution](./solutions/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/solution.py) |
@@ -235,6 +237,5 @@
 | top-travellers | Top Travellers | Easy | mysql | [Problem](https://leetcode.com/problems/top-travellers/) | [Solution](./solutions/Easy/1407-top-travellers/solution.sql) |
 | triangle-judgement | 610. Triangle Judgement | Easy | mysql | [Problem](https://leetcode.com/problems/triangle-judgement/) | [Solution](./solutions/Easy/0610-triangle-judgement/solution.sql) |
 | swap-sex-of-employees | 627. Swap Sex Of Employees | Easy | mysql | [Problem](https://leetcode.com/problems/swap-sex-of-employees/) | [Solution](./solutions/Easy/0627-swap-sex-of-employees/solution.sql) |
-| toeplitz-matrix | 766. Toeplitz Matrix | Easy | python3 | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.py) |
 | utf-8-validation | UTF-8 Validation | Medium | python3 | [Problem](https://leetcode.com/problems/utf-8-validation/) | [Solution](./solutions/Medium/0393-utf-8-validation/solution.py) |
 | wiggle-subsequence | Wiggle Subsequence | Medium | python3 | [Problem](https://leetcode.com/problems/wiggle-subsequence/) | [Solution](./solutions/Medium/0376-wiggle-subsequence/solution.py) |
