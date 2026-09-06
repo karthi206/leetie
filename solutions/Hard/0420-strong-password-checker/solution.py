@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : String, Greedy, Heap (Priority Queue)
 # Link     : https://leetcode.com/problems/strong-password-checker/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19436000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 19496000 (beats 35%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
