@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Math, Binary Search
 # Link     : https://leetcode.com/problems/nth-digit/
-# Runtime  : 0 ms (beats 100%)
-# Memory   : 19172000 (beats 87%)
+# Runtime  : 0 ms (beats 0%)
+# Memory   : 19272000 (beats 0%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
