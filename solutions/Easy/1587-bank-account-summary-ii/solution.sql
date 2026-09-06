@@ -3,8 +3,8 @@
 -- Difficulty: Easy
 -- Tags     : Database
 -- Link     : https://leetcode.com/problems/bank-account-summary-ii/
--- Runtime  : 1075 ms (beats 21%)
--- Memory   : 0B (beats 100%)
+-- Runtime  : 92 ms (beats 0%)
+-- Memory   : 0B (beats 0%)
 -- Language : mysql
 -- Copyright: (c) 2026 karthi206. All rights reserved.
 -- Synced by: leetie
