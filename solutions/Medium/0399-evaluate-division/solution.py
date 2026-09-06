@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, String, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Shortest Path, Bellman–Ford Algorithm, Floyd–Warshall Algorithm
 # Link     : https://leetcode.com/problems/evaluate-division/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19592000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 19444000 (beats 76%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
