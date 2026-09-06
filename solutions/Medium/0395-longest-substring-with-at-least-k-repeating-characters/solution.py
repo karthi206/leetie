@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Hash Table, String, Divide and Conquer, Sliding Window
 # Link     : https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19316000 (beats 0%)
+# Runtime  : 47 ms (beats 37%)
+# Memory   : 19448000 (beats 33%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
