@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Tree, Depth-First Search, Binary Tree
 # Link     : https://leetcode.com/problems/path-sum-iii/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19312000 (beats 0%)
+# Runtime  : 417 ms (beats 22%)
+# Memory   : 19756000 (beats 92%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
