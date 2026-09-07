@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Search Tree, Binary Tree
 # Link     : https://leetcode.com/problems/serialize-and-deserialize-bst/
-# Runtime  : 41 ms (beats 0%)
-# Memory   : 19360000 (beats 0%)
+# Runtime  : 77 ms (beats 9%)
+# Memory   : 23096000 (beats 24%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
@@ -85,4 +85,3 @@ class Codec:
 # ans = deser.deserialize(tree)
 # return ans
 
-'
