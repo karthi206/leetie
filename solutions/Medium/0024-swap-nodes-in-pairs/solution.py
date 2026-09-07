@@ -4,7 +4,7 @@
 # Tags     : Linked List, Recursion
 # Link     : https://leetcode.com/problems/swap-nodes-in-pairs/
 # Runtime  : 0 ms (beats 100%)
-# Memory   : 19224000 (beats 62%)
+# Memory   : 19204000 (beats 62%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
@@ -23,4 +23,5 @@ class Solution:
         first.next=self.swapPairs(second.next)
         second.next=first
         return second
+
         
