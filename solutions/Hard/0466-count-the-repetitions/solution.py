@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Two Pointers, String, Dynamic Programming
 # Link     : https://leetcode.com/problems/count-the-repetitions/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19384000 (beats 0%)
+# Runtime  : 4 ms (beats 27%)
+# Memory   : 19452000 (beats 16%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
