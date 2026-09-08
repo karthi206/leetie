@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : String, Dynamic Programming
 # Link     : https://leetcode.com/problems/unique-substrings-in-wraparound-string/
-# Runtime  : 95 ms (beats 10%)
-# Memory   : 33744000 (beats 8%)
+# Runtime  : 99 ms (beats 6%)
+# Memory   : 33656000 (beats 8%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
