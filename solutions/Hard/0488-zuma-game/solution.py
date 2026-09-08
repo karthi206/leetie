@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : String, Dynamic Programming, Stack, Breadth-First Search, Memoization
 # Link     : https://leetcode.com/problems/zuma-game/
-# Runtime  : 547 ms (beats 71%)
-# Memory   : 29548000 (beats 67%)
+# Runtime  : 539 ms (beats 82%)
+# Memory   : 29424000 (beats 85%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
