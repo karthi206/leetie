@@ -4,7 +4,7 @@
 # Tags     : String
 # Link     : https://leetcode.com/problems/validate-ip-address/
 # Runtime  : 0 ms (beats 100%)
-# Memory   : 19300000 (beats 86%)
+# Memory   : 19336000 (beats 53%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
