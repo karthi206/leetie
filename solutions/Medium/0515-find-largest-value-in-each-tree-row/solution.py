@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Tree, Depth-First Search, Breadth-First Search, Binary Tree
 # Link     : https://leetcode.com/problems/find-largest-value-in-each-tree-row/
-# Runtime  : 0 ms (beats 100%)
-# Memory   : 21072000 (beats 28%)
+# Runtime  : 0 ms (beats 0%)
+# Memory   : 19344000 (beats 0%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
