@@ -4,7 +4,7 @@
 # Tags     : Math, String
 # Link     : https://leetcode.com/problems/find-the-closest-palindrome/
 # Runtime  : 0 ms (beats 100%)
-# Memory   : 19184000 (beats 95%)
+# Memory   : 19396000 (beats 37%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
