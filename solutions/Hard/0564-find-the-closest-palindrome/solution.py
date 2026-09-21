@@ -1,0 +1,52 @@
+# ──────────────────────────────────────────────────
+# Problem  : 564. Find the Closest Palindrome
+# Difficulty: Hard
+# Tags     : Math, String
+# Link     : https://leetcode.com/problems/find-the-closest-palindrome/
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 19184000 (beats 95%)
+# Language : python3
+# Copyright: (c) 2026 karthi206. All rights reserved.
+# Synced by: leetie
+# ──────────────────────────────────────────────────
+
+class Solution:
+    def nearestPalindromic(self, numberStr: str) -> str:
+        number = int(numberStr)
+        if number <= 10:
+            return str(number - 1)
+        if number == 11:
+            return "9"
+
+        length = len(numberStr)
+        leftHalf = int(numberStr[:(length + 1) // 2])
+        
+        palindromeCandidates = [
+            self.generatePalindromeFromLeft(leftHalf - 1, length % 2 == 0),
+            self.generatePalindromeFromLeft(leftHalf, length % 2 == 0),
+            self.generatePalindromeFromLeft(leftHalf + 1, length % 2 == 0),
+            10**(length - 1) - 1,
+            10**length + 1
+        ]
+
+        nearestPalindrome = 0
+        minDifference = float('inf')
+
+        for candidate in palindromeCandidates:
+            if candidate == number:
+                continue
+            difference = abs(candidate - number)
+            if difference < minDifference or (difference == minDifference and candidate < nearestPalindrome):
+                minDifference = difference
+                nearestPalindrome = candidate
+
+        return str(nearestPalindrome)
+
+    def generatePalindromeFromLeft(self, leftHalf: int, isEvenLength: bool) -> int:
+        palindrome = leftHalf
+        if not isEvenLength:
+            leftHalf //= 10
+        while leftHalf > 0:
+            palindrome = palindrome * 10 + leftHalf % 10
+            leftHalf //= 10
+        return palindrome
