@@ -2,36 +2,25 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 331 Solved
+## Progress Summary: 332 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | 01-matrix | 01 Matrix | Medium | python3 | [Problem](https://leetcode.com/problems/01-matrix/) | [Solution](./solutions/Medium/0542-01-matrix/solution.py) |
+| array-nesting | Array Nesting | Medium | python3 | [Problem](https://leetcode.com/problems/array-nesting/) | [Solution](./solutions/Medium/0565-array-nesting/solution.py) |
 | beautiful-arrangement | Beautiful Arrangement | Medium | python3 | [Problem](https://leetcode.com/problems/beautiful-arrangement/) | [Solution](./solutions/Medium/0526-beautiful-arrangement/solution.py) |
 | brick-wall | Brick Wall | Medium | python3 | [Problem](https://leetcode.com/problems/brick-wall/) | [Solution](./solutions/Medium/0554-brick-wall/solution.py) |
 | can-i-win | Can I Win | Medium | python3 | [Problem](https://leetcode.com/problems/can-i-win/) | [Solution](./solutions/Medium/0464-can-i-win/solution.py) |
 | circle-and-rectangle-overlapping | Circle and Rectangle Overlapping | Medium | python3 | [Problem](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | [Solution](./solutions/Medium/1401-circle-and-rectangle-overlapping/solution.py) |
-| concatenated-words | Concatenated Words | Hard | python3 | [Problem](https://leetcode.com/problems/concatenated-words/) | [Solution](./solutions/Hard/0472-concatenated-words/solution.py) |
-| count-commas-in-range | Count Commas in Range | Easy | python3 | [Problem](https://leetcode.com/problems/count-commas-in-range/) | [Solution](./solutions/Easy/3870-count-commas-in-range/solution.py) |
-| count-the-repetitions | Count The Repetitions | Hard | python3 | [Problem](https://leetcode.com/problems/count-the-repetitions/) | [Solution](./solutions/Hard/0466-count-the-repetitions/solution.py) |
-| game-play-analysis-i | 511. Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |
-| employee-bonus | 577. Employee Bonus | Easy | mysql | [Problem](https://leetcode.com/problems/employee-bonus/) | [Solution](./solutions/Easy/0577-employee-bonus/solution.sql) |
-| find-customer-referee | 584. Find Customer Referee | Easy | mysql | [Problem](https://leetcode.com/problems/find-customer-referee/) | [Solution](./solutions/Easy/0584-find-customer-referee/solution.sql) |
-| customer-placing-the-largest-number-of-orders | 586. Customer Placing The Largest Number Of Orders | Easy | mysql | [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution](./solutions/Easy/0586-customer-placing-the-largest-number-of-orders/solution.sql) |
-| big-countries | 595. Big Countries | Easy | mysql | [Problem](https://leetcode.com/problems/big-countries/) | [Solution](./solutions/Easy/0595-big-countries/solution.sql) |
-| biggest-single-number | 619. Biggest Single Number | Easy | mysql | [Problem](https://leetcode.com/problems/biggest-single-number/) | [Solution](./solutions/Easy/0619-biggest-single-number/solution.sql) |
-| generate-random-point-in-a-circle | Generate Random Point in a Circle | Medium | python3 | [Problem](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [Solution](./solutions/Medium/0478-generate-random-point-in-a-circle/solution.py) |
-| heaters | Heaters | Medium | python3 | [Problem](https://leetcode.com/problems/heaters/) | [Solution](./solutions/Medium/0475-heaters/solution.py) |
-| implement-rand10-using-rand7 | Implement Rand10() Using Rand7() | Medium | python3 | [Problem](https://leetcode.com/problems/implement-rand10-using-rand7/) | [Solution](./solutions/Medium/0470-implement-rand10-using-rand7/solution.py) |
-| largest-palindrome-product | Largest Palindrome Product | Hard | python3 | [Problem](https://leetcode.com/problems/largest-palindrome-product/) | [Solution](./solutions/Hard/0479-largest-palindrome-product/solution.py) |
-| lfu-cache | 460. Lfu Cache | Hard | python3 | [Problem](https://leetcode.com/problems/lfu-cache/) | [Solution](./solutions/Hard/0460-lfu-cache/solution.py) |
-| classes-with-at-least-5-students | 596. Classes With At Least 5 Students | Easy | mysql | [Problem](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Solution](./solutions/Easy/0596-classes-with-at-least-5-students/solution.sql) |
 | coin-change-ii | Coin Change II | Medium | python3 | [Problem](https://leetcode.com/problems/coin-change-ii/) | [Solution](./solutions/Medium/0518-coin-change-ii/solution.py) |
 | complex-number-multiplication | Complex Number Multiplication | Medium | python3 | [Problem](https://leetcode.com/problems/complex-number-multiplication/) | [Solution](./solutions/Medium/0537-complex-number-multiplication/solution.py) |
+| concatenated-words | Concatenated Words | Hard | python3 | [Problem](https://leetcode.com/problems/concatenated-words/) | [Solution](./solutions/Hard/0472-concatenated-words/solution.py) |
 | contiguous-array | Contiguous Array | Medium | python3 | [Problem](https://leetcode.com/problems/contiguous-array/) | [Solution](./solutions/Medium/0525-contiguous-array/solution.py) |
 | continuous-subarray-sum | Continuous Subarray Sum | Medium | python3 | [Problem](https://leetcode.com/problems/continuous-subarray-sum/) | [Solution](./solutions/Medium/0523-continuous-subarray-sum/solution.py) |
 | convert-bst-to-greater-tree | Convert BST to Greater Tree | Medium | python3 | [Problem](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Solution](./solutions/Medium/0538-convert-bst-to-greater-tree/solution.py) |
+| count-commas-in-range | Count Commas in Range | Easy | python3 | [Problem](https://leetcode.com/problems/count-commas-in-range/) | [Solution](./solutions/Easy/3870-count-commas-in-range/solution.py) |
 | count-commas-in-range-ii | Count Commas in Range II | Medium | python3 | [Problem](https://leetcode.com/problems/count-commas-in-range-ii/) | [Solution](./solutions/Medium/3871-count-commas-in-range-ii/solution.py) |
+| count-the-repetitions | Count The Repetitions | Hard | python3 | [Problem](https://leetcode.com/problems/count-the-repetitions/) | [Solution](./solutions/Hard/0466-count-the-repetitions/solution.py) |
 | diagonal-traverse | Diagonal Traverse | Medium | python3 | [Problem](https://leetcode.com/problems/diagonal-traverse/) | [Solution](./solutions/Medium/0498-diagonal-traverse/solution.py) |
 | encode-and-decode-tinyurl | Encode and Decode TinyURL | Medium | python3 | [Problem](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Solution](./solutions/Medium/0535-encode-and-decode-tinyurl/solution.py) |
 | find-bottom-left-tree-value | Find Bottom Left Tree Value | Medium | python3 | [Problem](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Solution](./solutions/Medium/0513-find-bottom-left-tree-value/solution.py) |
@@ -39,6 +28,18 @@
 | find-the-closest-palindrome | Find the Closest Palindrome | Hard | python3 | [Problem](https://leetcode.com/problems/find-the-closest-palindrome/) | [Solution](./solutions/Hard/0564-find-the-closest-palindrome/solution.py) |
 | find-x-value-of-array-i | Find X Value of Array I | Medium | python3 | [Problem](https://leetcode.com/problems/find-x-value-of-array-i/) | [Solution](./solutions/Medium/3524-find-x-value-of-array-i/solution.py) |
 | freedom-trail | Freedom Trail | Hard | python3 | [Problem](https://leetcode.com/problems/freedom-trail/) | [Solution](./solutions/Hard/0514-freedom-trail/solution.py) |
+| game-play-analysis-i | 511. Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |
+| employee-bonus | 577. Employee Bonus | Easy | mysql | [Problem](https://leetcode.com/problems/employee-bonus/) | [Solution](./solutions/Easy/0577-employee-bonus/solution.sql) |
+| find-customer-referee | 584. Find Customer Referee | Easy | mysql | [Problem](https://leetcode.com/problems/find-customer-referee/) | [Solution](./solutions/Easy/0584-find-customer-referee/solution.sql) |
+| customer-placing-the-largest-number-of-orders | 586. Customer Placing The Largest Number Of Orders | Easy | mysql | [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution](./solutions/Easy/0586-customer-placing-the-largest-number-of-orders/solution.sql) |
+| big-countries | 595. Big Countries | Easy | mysql | [Problem](https://leetcode.com/problems/big-countries/) | [Solution](./solutions/Easy/0595-big-countries/solution.sql) |
+| classes-with-at-least-5-students | 596. Classes With At Least 5 Students | Easy | mysql | [Problem](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Solution](./solutions/Easy/0596-classes-with-at-least-5-students/solution.sql) |
+| biggest-single-number | 619. Biggest Single Number | Easy | mysql | [Problem](https://leetcode.com/problems/biggest-single-number/) | [Solution](./solutions/Easy/0619-biggest-single-number/solution.sql) |
+| generate-random-point-in-a-circle | Generate Random Point in a Circle | Medium | python3 | [Problem](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [Solution](./solutions/Medium/0478-generate-random-point-in-a-circle/solution.py) |
+| heaters | Heaters | Medium | python3 | [Problem](https://leetcode.com/problems/heaters/) | [Solution](./solutions/Medium/0475-heaters/solution.py) |
+| implement-rand10-using-rand7 | Implement Rand10() Using Rand7() | Medium | python3 | [Problem](https://leetcode.com/problems/implement-rand10-using-rand7/) | [Solution](./solutions/Medium/0470-implement-rand10-using-rand7/solution.py) |
+| largest-palindrome-product | Largest Palindrome Product | Hard | python3 | [Problem](https://leetcode.com/problems/largest-palindrome-product/) | [Solution](./solutions/Hard/0479-largest-palindrome-product/solution.py) |
+| lfu-cache | 460. Lfu Cache | Hard | python3 | [Problem](https://leetcode.com/problems/lfu-cache/) | [Solution](./solutions/Hard/0460-lfu-cache/solution.py) |
 | goat-latin | 824. Goat Latin | Easy | python3 | [Problem](https://leetcode.com/problems/goat-latin/) | [Solution](./solutions/Easy/0824-goat-latin/solution.py) |
 | ipo | IPO | Hard | python3 | [Problem](https://leetcode.com/problems/ipo/) | [Solution](./solutions/Hard/0502-ipo/solution.py) |
 | k-diff-pairs-in-an-array | K-diff Pairs in an Array | Medium | python3 | [Problem](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Solution](./solutions/Medium/0532-k-diff-pairs-in-an-array/solution.py) |
@@ -52,11 +53,6 @@
 | minesweeper | Minesweeper | Medium | python3 | [Problem](https://leetcode.com/problems/minesweeper/) | [Solution](./solutions/Medium/0529-minesweeper/solution.py) |
 | minimum-moves-to-equal-array-elements-ii | Minimum Moves to Equal Array Elements II | Medium | python3 | [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Solution](./solutions/Medium/0462-minimum-moves-to-equal-array-elements-ii/solution.py) |
 | minimum-time-difference | Minimum Time Difference | Medium | python3 | [Problem](https://leetcode.com/problems/minimum-time-difference/) | [Solution](./solutions/Medium/0539-minimum-time-difference/solution.py) |
-| most-frequent-subtree-sum | Most Frequent Subtree Sum | Medium | python3 | [Problem](https://leetcode.com/problems/most-frequent-subtree-sum/) | [Solution](./solutions/Medium/0508-most-frequent-subtree-sum/solution.py) |
-| next-greater-element-iii | Next Greater Element III | Medium | python3 | [Problem](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](./solutions/Medium/0556-next-greater-element-iii/solution.py) |
-| non-decreasing-subsequences | Non-decreasing Subsequences | Medium | python3 | [Problem](https://leetcode.com/problems/non-decreasing-subsequences/) | [Solution](./solutions/Medium/0491-non-decreasing-subsequences/solution.py) |
-| ones-and-zeroes | Ones and Zeroes | Medium | python3 | [Problem](https://leetcode.com/problems/ones-and-zeroes/) | [Solution](./solutions/Medium/0474-ones-and-zeroes/solution.py) |
-| powx-n | 50. Powx N | Medium | python3 | [Problem](https://leetcode.com/problems/powx-n/) | [Solution](./solutions/Medium/0050-powx-n/solution.py) |
 | sort-colors | 75. Sort Colors | Medium | python3 | [Problem](https://leetcode.com/problems/sort-colors/) | [Solution](./solutions/Medium/0075-sort-colors/solution.py) |
 | subsets | 78. Subsets | Medium | python3 | [Problem](https://leetcode.com/problems/subsets/) | [Solution](./solutions/Medium/0078-subsets/solution.py) |
 | populating-next-right-pointers-in-each-node | 116. Populating Next Right Pointers In Each Node | Medium | python3 | [Problem](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution](./solutions/Medium/0116-populating-next-right-pointers-in-each-node/solution.py) |
@@ -75,7 +71,6 @@
 | largest-number | 179. Largest Number | Medium | python3 | [Problem](https://leetcode.com/problems/largest-number/) | [Solution](./solutions/Medium/0179-largest-number/solution.py) |
 | consecutive-numbers | 180. Consecutive Numbers | Medium | mysql | [Problem](https://leetcode.com/problems/consecutive-numbers/) | [Solution](./solutions/Medium/0180-consecutive-numbers/solution.sql) |
 | repeated-dna-sequences | 187. Repeated Dna Sequences | Medium | python3 | [Problem](https://leetcode.com/problems/repeated-dna-sequences/) | [Solution](./solutions/Medium/0187-repeated-dna-sequences/solution.py) |
-| number-of-1-bits | 191. Number Of 1 Bits | Easy | python3 | [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./solutions/Easy/0191-number-of-1-bits/solution.py) |
 | house-robber | 198. House Robber | Medium | python3 | [Problem](https://leetcode.com/problems/house-robber/) | [Solution](./solutions/Medium/0198-house-robber/solution.py) |
 | binary-tree-right-side-view | 199. Binary Tree Right Side View | Medium | python3 | [Problem](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution](./solutions/Medium/0199-binary-tree-right-side-view/solution.py) |
 | bitwise-and-of-numbers-range | 201. Bitwise And Of Numbers Range | Medium | python3 | [Problem](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](./solutions/Medium/0201-bitwise-and-of-numbers-range/solution.py) |
@@ -181,15 +176,19 @@
 | friend-requests-ii-who-has-the-most-friends | 602. Friend Requests Ii Who Has The Most Friends | Medium | mysql | [Problem](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | [Solution](./solutions/Medium/0602-friend-requests-ii-who-has-the-most-friends/solution.sql) |
 | tree-node | 608. Tree Node | Medium | mysql | [Problem](https://leetcode.com/problems/tree-node/) | [Solution](./solutions/Medium/0608-tree-node/solution.sql) |
 | exchange-seats | 626. Exchange Seats | Medium | mysql | [Problem](https://leetcode.com/problems/exchange-seats/) | [Solution](./solutions/Medium/0626-exchange-seats/solution.sql) |
-| minimum-distance-between-bst-nodes | 783. Minimum Distance Between Bst Nodes | Easy | python3 | [Problem](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Solution](./solutions/Easy/0783-minimum-distance-between-bst-nodes/solution.py) |
+| most-common-word | 819. Most Common Word | Easy | python3 | [Problem](https://leetcode.com/problems/most-common-word/) | [Solution](./solutions/Easy/0819-most-common-word/solution.py) |
+| customers-who-bought-all-products | 1045. Customers Who Bought All Products | Medium | mysql | [Problem](https://leetcode.com/problems/customers-who-bought-all-products/) | [Solution](./solutions/Medium/1045-customers-who-bought-all-products/solution.sql) |
+| most-frequent-subtree-sum | Most Frequent Subtree Sum | Medium | python3 | [Problem](https://leetcode.com/problems/most-frequent-subtree-sum/) | [Solution](./solutions/Medium/0508-most-frequent-subtree-sum/solution.py) |
+| next-greater-element-iii | Next Greater Element III | Medium | python3 | [Problem](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](./solutions/Medium/0556-next-greater-element-iii/solution.py) |
+| non-decreasing-subsequences | Non-decreasing Subsequences | Medium | python3 | [Problem](https://leetcode.com/problems/non-decreasing-subsequences/) | [Solution](./solutions/Medium/0491-non-decreasing-subsequences/solution.py) |
+| number-of-1-bits | 191. Number Of 1 Bits | Easy | python3 | [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./solutions/Easy/0191-number-of-1-bits/solution.py) |
 | number-of-lines-to-write-string | 806. Number Of Lines To Write String | Easy | python3 | [Problem](https://leetcode.com/problems/number-of-lines-to-write-string/) | [Solution](./solutions/Easy/0806-number-of-lines-to-write-string/solution.py) |
+| number-of-provinces | Number of Provinces | Medium | python3 | [Problem](https://leetcode.com/problems/number-of-provinces/) | [Solution](./solutions/Medium/0547-number-of-provinces/solution.py) |
+| ones-and-zeroes | Ones and Zeroes | Medium | python3 | [Problem](https://leetcode.com/problems/ones-and-zeroes/) | [Solution](./solutions/Medium/0474-ones-and-zeroes/solution.py) |
+| optimal-division | Optimal Division | Medium | python3 | [Problem](https://leetcode.com/problems/optimal-division/) | [Solution](./solutions/Medium/0553-optimal-division/solution.py) |
+| powx-n | 50. Powx N | Medium | python3 | [Problem](https://leetcode.com/problems/powx-n/) | [Solution](./solutions/Medium/0050-powx-n/solution.py) |
 | positions-of-large-groups | 830. Positions Of Large Groups | Easy | python3 | [Problem](https://leetcode.com/problems/positions-of-large-groups/) | [Solution](./solutions/Easy/0830-positions-of-large-groups/solution.py) |
 | predict-the-winner | Predict the Winner | Medium | python3 | [Problem](https://leetcode.com/problems/predict-the-winner/) | [Solution](./solutions/Medium/0486-predict-the-winner/solution.py) |
-| repeated-substring-pattern | 459. Repeated Substring Pattern | Easy | python3 | [Problem](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution](./solutions/Easy/0459-repeated-substring-pattern/solution.py) |
-| sales-person | 607. Sales Person | Easy | mysql | [Problem](https://leetcode.com/problems/sales-person/) | [Solution](./solutions/Easy/0607-sales-person/solution.sql) |
-| most-common-word | 819. Most Common Word | Easy | python3 | [Problem](https://leetcode.com/problems/most-common-word/) | [Solution](./solutions/Easy/0819-most-common-word/solution.py) |
-| shortest-distance-to-a-character | 821. Shortest Distance To A Character | Easy | python3 | [Problem](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Solution](./solutions/Easy/0821-shortest-distance-to-a-character/solution.py) |
-| customers-who-bought-all-products | 1045. Customers Who Bought All Products | Medium | mysql | [Problem](https://leetcode.com/problems/customers-who-bought-all-products/) | [Solution](./solutions/Medium/1045-customers-who-bought-all-products/solution.sql) |
 | product-sales-analysis-iii | 1070. Product Sales Analysis Iii | Medium | mysql | [Problem](https://leetcode.com/problems/product-sales-analysis-iii/) | [Solution](./solutions/Medium/1070-product-sales-analysis-iii/solution.sql) |
 | market-analysis-i | 1158. Market Analysis I | Medium | mysql | [Problem](https://leetcode.com/problems/market-analysis-i/) | [Solution](./solutions/Medium/1158-market-analysis-i/solution.sql) |
 | product-price-at-a-given-date | 1164. Product Price At A Given Date | Medium | mysql | [Problem](https://leetcode.com/problems/product-price-at-a-given-date/) | [Solution](./solutions/Medium/1164-product-price-at-a-given-date/solution.sql) |
@@ -217,23 +216,22 @@
 | minimum-moves-to-clean-the-classroom | 3568. Minimum Moves To Clean The Classroom | Medium | python3 | [Problem](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | [Solution](./solutions/Medium/3568-minimum-moves-to-clean-the-classroom/solution.py) |
 | lexicographically-smallest-permutation-greater-than-target | 3720. Lexicographically Smallest Permutation Greater Than Target | Medium | python3 | [Problem](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/) | [Solution](./solutions/Medium/3720-lexicographically-smallest-permutation-greater-than-target/solution.py) |
 | construct-uniform-parity-array-ii | 3876. Construct Uniform Parity Array Ii | Medium | python3 | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Solution](./solutions/Medium/3876-construct-uniform-parity-array-ii/solution.py) |
-| smallest-stable-index-ii | 3904. Smallest Stable Index Ii | Medium | python3 | [Problem](https://leetcode.com/problems/smallest-stable-index-ii/) | [Solution](./solutions/Medium/3904-smallest-stable-index-ii/solution.py) |
-| swap-nodes-in-pairs | Swap Nodes in Pairs | Medium | python3 | [Problem](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./solutions/Medium/0024-swap-nodes-in-pairs/solution.py) |
-| total-hamming-distance | Total Hamming Distance | Medium | python3 | [Problem](https://leetcode.com/problems/total-hamming-distance/) | [Solution](./solutions/Medium/0477-total-hamming-distance/solution.py) |
-| triangle-judgement | 610. Triangle Judgement | Easy | mysql | [Problem](https://leetcode.com/problems/triangle-judgement/) | [Solution](./solutions/Easy/0610-triangle-judgement/solution.sql) |
-| not-boring-movies | 620. Not Boring Movies | Easy | mysql | [Problem](https://leetcode.com/problems/not-boring-movies/) | [Solution](./solutions/Easy/0620-not-boring-movies/solution.sql) |
-| number-of-provinces | Number of Provinces | Medium | python3 | [Problem](https://leetcode.com/problems/number-of-provinces/) | [Solution](./solutions/Medium/0547-number-of-provinces/solution.py) |
-| optimal-division | Optimal Division | Medium | python3 | [Problem](https://leetcode.com/problems/optimal-division/) | [Solution](./solutions/Medium/0553-optimal-division/solution.py) |
 | random-flip-matrix | Random Flip Matrix | Medium | python3 | [Problem](https://leetcode.com/problems/random-flip-matrix/) | [Solution](./solutions/Medium/0519-random-flip-matrix/solution.py) |
 | random-pick-with-weight | Random Pick with Weight | Medium | python3 | [Problem](https://leetcode.com/problems/random-pick-with-weight/) | [Solution](./solutions/Medium/0528-random-pick-with-weight/solution.py) |
 | random-point-in-non-overlapping-rectangles | Random Point in Non-overlapping Rectangles | Medium | python3 | [Problem](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Solution](./solutions/Medium/0497-random-point-in-non-overlapping-rectangles/solution.py) |
 | remove-boxes | Remove Boxes | Hard | python3 | [Problem](https://leetcode.com/problems/remove-boxes/) | [Solution](./solutions/Hard/0546-remove-boxes/solution.py) |
+| repeated-substring-pattern | 459. Repeated Substring Pattern | Easy | python3 | [Problem](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution](./solutions/Easy/0459-repeated-substring-pattern/solution.py) |
 | reverse-pairs | Reverse Pairs | Hard | python3 | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution](./solutions/Hard/0493-reverse-pairs/solution.py) |
+| sales-person | 607. Sales Person | Easy | mysql | [Problem](https://leetcode.com/problems/sales-person/) | [Solution](./solutions/Easy/0607-sales-person/solution.sql) |
+| minimum-distance-between-bst-nodes | 783. Minimum Distance Between Bst Nodes | Easy | python3 | [Problem](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Solution](./solutions/Easy/0783-minimum-distance-between-bst-nodes/solution.py) |
+| shortest-distance-to-a-character | 821. Shortest Distance To A Character | Easy | python3 | [Problem](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Solution](./solutions/Easy/0821-shortest-distance-to-a-character/solution.py) |
 | single-element-in-a-sorted-array | Single Element in a Sorted Array | Medium | python3 | [Problem](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Solution](./solutions/Medium/0540-single-element-in-a-sorted-array/solution.py) |
 | sliding-window-median | Sliding Window Median | Hard | python3 | [Problem](https://leetcode.com/problems/sliding-window-median/) | [Solution](./solutions/Hard/0480-sliding-window-median/solution.py) |
 | student-attendance-record-ii | Student Attendance Record II | Hard | python3 | [Problem](https://leetcode.com/problems/student-attendance-record-ii/) | [Solution](./solutions/Hard/0552-student-attendance-record-ii/solution.py) |
 | substring-with-concatenation-of-all-words | 30. Substring With Concatenation Of All Words | Hard | python3 | [Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Solution](./solutions/Hard/0030-substring-with-concatenation-of-all-words/solution.py) |
 | super-washing-machines | Super Washing Machines | Hard | python3 | [Problem](https://leetcode.com/problems/super-washing-machines/) | [Solution](./solutions/Hard/0517-super-washing-machines/solution.py) |
+| swap-nodes-in-pairs | Swap Nodes in Pairs | Medium | python3 | [Problem](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./solutions/Medium/0024-swap-nodes-in-pairs/solution.py) |
+| target-sum | Target Sum | Medium | python3 | [Problem](https://leetcode.com/problems/target-sum/) | [Solution](./solutions/Medium/0494-target-sum/solution.py) |
 | text-justification | 68. Text Justification | Hard | python3 | [Problem](https://leetcode.com/problems/text-justification/) | [Solution](./solutions/Hard/0068-text-justification/solution.py) |
 | largest-rectangle-in-histogram | 84. Largest Rectangle In Histogram | Hard | python3 | [Problem](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Solution](./solutions/Hard/0084-largest-rectangle-in-histogram/solution.py) |
 | maximal-rectangle | 85. Maximal Rectangle | Hard | python3 | [Problem](https://leetcode.com/problems/maximal-rectangle/) | [Solution](./solutions/Hard/0085-maximal-rectangle/solution.py) |
@@ -243,6 +241,7 @@
 | dungeon-game | 174. Dungeon Game | Hard | python3 | [Problem](https://leetcode.com/problems/dungeon-game/) | [Solution](./solutions/Hard/0174-dungeon-game/solution.py) |
 | department-top-three-salaries | 185. Department Top Three Salaries | Hard | mysql | [Problem](https://leetcode.com/problems/department-top-three-salaries/) | [Solution](./solutions/Hard/0185-department-top-three-salaries/solution.sql) |
 | best-time-to-buy-and-sell-stock-iv | 188. Best Time To Buy And Sell Stock Iv | Hard | python3 | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Solution](./solutions/Hard/0188-best-time-to-buy-and-sell-stock-iv/solution.py) |
+| total-hamming-distance | Total Hamming Distance | Medium | python3 | [Problem](https://leetcode.com/problems/total-hamming-distance/) | [Solution](./solutions/Medium/0477-total-hamming-distance/solution.py) |
 | word-search-ii | 212. Word Search Ii | Hard | python3 | [Problem](https://leetcode.com/problems/word-search-ii/) | [Solution](./solutions/Hard/0212-word-search-ii/solution.py) |
 | shortest-palindrome | 214. Shortest Palindrome | Hard | python3 | [Problem](https://leetcode.com/problems/shortest-palindrome/) | [Solution](./solutions/Hard/0214-shortest-palindrome/solution.py) |
 | the-skyline-problem | 218. The Skyline Problem | Hard | python3 | [Problem](https://leetcode.com/problems/the-skyline-problem/) | [Solution](./solutions/Hard/0218-the-skyline-problem/solution.py) |
@@ -278,7 +277,10 @@
 | arithmetic-slices-ii-subsequence | 446. Arithmetic Slices Ii Subsequence | Hard | python3 | [Problem](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Solution](./solutions/Hard/0446-arithmetic-slices-ii-subsequence/solution.py) |
 | poor-pigs | 458. Poor Pigs | Hard | python3 | [Problem](https://leetcode.com/problems/poor-pigs/) | [Solution](./solutions/Hard/0458-poor-pigs/solution.py) |
 | human-traffic-of-stadium | 601. Human Traffic Of Stadium | Hard | mysql | [Problem](https://leetcode.com/problems/human-traffic-of-stadium/) | [Solution](./solutions/Hard/0601-human-traffic-of-stadium/solution.sql) |
+| triangle-judgement | 610. Triangle Judgement | Easy | mysql | [Problem](https://leetcode.com/problems/triangle-judgement/) | [Solution](./solutions/Easy/0610-triangle-judgement/solution.sql) |
+| not-boring-movies | 620. Not Boring Movies | Easy | mysql | [Problem](https://leetcode.com/problems/not-boring-movies/) | [Solution](./solutions/Easy/0620-not-boring-movies/solution.sql) |
 | swap-sex-of-employees | 627. Swap Sex Of Employees | Easy | mysql | [Problem](https://leetcode.com/problems/swap-sex-of-employees/) | [Solution](./solutions/Easy/0627-swap-sex-of-employees/solution.sql) |
+| toeplitz-matrix | 766. Toeplitz Matrix | Easy | python3 | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.py) |
 | flipping-an-image | 832. Flipping An Image | Easy | python3 | [Problem](https://leetcode.com/problems/flipping-an-image/) | [Solution](./solutions/Easy/0832-flipping-an-image/solution.py) |
 | rectangle-overlap | 836. Rectangle Overlap | Easy | python3 | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.py) |
 | buddy-strings | 859. Buddy Strings | Easy | python3 | [Problem](https://leetcode.com/problems/buddy-strings/) | [Solution](./solutions/Easy/0859-buddy-strings/solution.py) |
@@ -330,8 +332,7 @@
 | smallest-missing-multiple-of-k | 3718. Smallest Missing Multiple Of K | Easy | python3 | [Problem](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [Solution](./solutions/Easy/3718-smallest-missing-multiple-of-k/solution.py) |
 | lexicographically-smallest-palindromic-permutation-greater-than-target | 3734. Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | python3 | [Problem](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/) | [Solution](./solutions/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution.py) |
 | construct-uniform-parity-array-i | 3875. Construct Uniform Parity Array I | Easy | python3 | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Solution](./solutions/Easy/3875-construct-uniform-parity-array-i/solution.py) |
-| target-sum | Target Sum | Medium | python3 | [Problem](https://leetcode.com/problems/target-sum/) | [Solution](./solutions/Medium/0494-target-sum/solution.py) |
-| toeplitz-matrix | 766. Toeplitz Matrix | Easy | python3 | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.py) |
+| smallest-stable-index-ii | 3904. Smallest Stable Index Ii | Medium | python3 | [Problem](https://leetcode.com/problems/smallest-stable-index-ii/) | [Solution](./solutions/Medium/3904-smallest-stable-index-ii/solution.py) |
 | unique-3-digit-even-numbers | Unique 3-Digit Even Numbers | Easy | python3 | [Problem](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Solution](./solutions/Easy/3483-unique-3-digit-even-numbers/solution.py) |
 | unique-morse-code-words | 804. Unique Morse Code Words | Easy | python3 | [Problem](https://leetcode.com/problems/unique-morse-code-words/) | [Solution](./solutions/Easy/0804-unique-morse-code-words/solution.py) |
 | unique-substrings-in-wraparound-string | Unique Substrings in Wraparound String | Medium | python3 | [Problem](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) | [Solution](./solutions/Medium/0467-unique-substrings-in-wraparound-string/solution.py) |
