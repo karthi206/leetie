@@ -2,10 +2,11 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 340 Solved
+## Progress Summary: 341 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| design-circular-queue | Design Circular Queue | Medium | python3 | [Problem](https://leetcode.com/problems/design-circular-queue/) | [Solution](./solutions/Medium/0622-design-circular-queue/solution.py) |
 | swap-nodes-in-pairs | 24. Swap Nodes In Pairs | Medium | python3 | [Problem](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./solutions/Medium/0024-swap-nodes-in-pairs/solution.py) |
 | substring-with-concatenation-of-all-words | 30. Substring With Concatenation Of All Words | Hard | python3 | [Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Solution](./solutions/Hard/0030-substring-with-concatenation-of-all-words/solution.py) |
 | powx-n | 50. Powx N | Medium | python3 | [Problem](https://leetcode.com/problems/powx-n/) | [Solution](./solutions/Medium/0050-powx-n/solution.py) |
