@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting
 # Link     : https://leetcode.com/problems/task-scheduler/
-# Runtime  : 12 ms (beats 95%)
-# Memory   : 20544000 (beats 97%)
+# Runtime  : 21 ms (beats 77%)
+# Memory   : 20712000 (beats 67%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
