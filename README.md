@@ -2,10 +2,11 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 345 Solved
+## Progress Summary: 346 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| course-schedule-iii | Course Schedule III | Hard | python3 | [Problem](https://leetcode.com/problems/course-schedule-iii/) | [Solution](./solutions/Hard/0630-course-schedule-iii/solution.py) |
 | erect-the-fence | Erect the Fence | Hard | python3 | [Problem](https://leetcode.com/problems/erect-the-fence/) | [Solution](./solutions/Hard/0587-erect-the-fence/solution.py) |
 | k-inverse-pairs-array | K Inverse Pairs Array | Hard | python3 | [Problem](https://leetcode.com/problems/k-inverse-pairs-array/) | [Solution](./solutions/Hard/0629-k-inverse-pairs-array/solution.py) |
 | swap-nodes-in-pairs | 24. Swap Nodes In Pairs | Medium | python3 | [Problem](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./solutions/Medium/0024-swap-nodes-in-pairs/solution.py) |
