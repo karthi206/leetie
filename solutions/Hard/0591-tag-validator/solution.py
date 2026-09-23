@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : String, Stack
 # Link     : https://leetcode.com/problems/tag-validator/
-# Runtime  : 1 ms (beats 29%)
-# Memory   : 19384000 (beats 53%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 19496000 (beats 19%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
