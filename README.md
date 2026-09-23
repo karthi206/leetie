@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 349 Solved
+## Progress Summary: 350 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -355,3 +355,4 @@
 | construct-uniform-parity-array-i | 3875. Construct Uniform Parity Array I | Easy | python3 | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Solution](./solutions/Easy/3875-construct-uniform-parity-array-i/solution.py) |
 | construct-uniform-parity-array-ii | 3876. Construct Uniform Parity Array Ii | Medium | python3 | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Solution](./solutions/Medium/3876-construct-uniform-parity-array-ii/solution.py) |
 | smallest-stable-index-ii | 3904. Smallest Stable Index Ii | Medium | python3 | [Problem](https://leetcode.com/problems/smallest-stable-index-ii/) | [Solution](./solutions/Medium/3904-smallest-stable-index-ii/solution.py) |
+| valid-square | Valid Square | Medium | python3 | [Problem](https://leetcode.com/problems/valid-square/) | [Solution](./solutions/Medium/0593-valid-square/solution.py) |
