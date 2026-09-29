@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Hash Table, Tree, Depth-First Search, Binary Tree
 # Link     : https://leetcode.com/problems/find-duplicate-subtrees/
-# Runtime  : 8 ms (beats 37%)
-# Memory   : 25192000 (beats 63%)
+# Runtime  : 4 ms (beats 71%)
+# Memory   : 25232000 (beats 61%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
