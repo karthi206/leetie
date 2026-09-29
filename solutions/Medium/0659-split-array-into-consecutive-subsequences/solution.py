@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Hash Table, Greedy, Heap (Priority Queue)
 # Link     : https://leetcode.com/problems/split-array-into-consecutive-subsequences/
-# Runtime  : 31 ms (beats 55%)
-# Memory   : 20412000 (beats 44%)
+# Runtime  : 23 ms (beats 86%)
+# Memory   : 20504000 (beats 17%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
