@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 371 Solved
+## Progress Summary: 372 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -192,24 +192,19 @@
 | array-nesting | 565. Array Nesting | Medium | python3 | [Problem](https://leetcode.com/problems/array-nesting/) | [Solution](./solutions/Medium/0565-array-nesting/solution.py) |
 | managers-with-at-least-5-direct-reports | 570. Managers With At Least 5 Direct Reports | Medium | mysql | [Problem](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | [Solution](./solutions/Medium/0570-managers-with-at-least-5-direct-reports/solution.sql) |
 | out-of-boundary-paths | 576. Out Of Boundary Paths | Medium | python3 | [Problem](https://leetcode.com/problems/out-of-boundary-paths/) | [Solution](./solutions/Medium/0576-out-of-boundary-paths/solution.py) |
-| employee-bonus | 577. Employee Bonus | Easy | mysql | [Problem](https://leetcode.com/problems/employee-bonus/) | [Solution](./solutions/Easy/0577-employee-bonus/solution.sql) |
 | shortest-unsorted-continuous-subarray | 581. Shortest Unsorted Continuous Subarray | Medium | python3 | [Problem](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Solution](./solutions/Medium/0581-shortest-unsorted-continuous-subarray/solution.py) |
 | delete-operation-for-two-strings | 583. Delete Operation For Two Strings | Medium | python3 | [Problem](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Solution](./solutions/Medium/0583-delete-operation-for-two-strings/solution.py) |
 | find-customer-referee | 584. Find Customer Referee | Easy | mysql | [Problem](https://leetcode.com/problems/find-customer-referee/) | [Solution](./solutions/Easy/0584-find-customer-referee/solution.sql) |
 | investments-in-2016 | 585. Investments In 2016 | Medium | mysql | [Problem](https://leetcode.com/problems/investments-in-2016/) | [Solution](./solutions/Medium/0585-investments-in-2016/solution.sql) |
-| customer-placing-the-largest-number-of-orders | 586. Customer Placing The Largest Number Of Orders | Easy | mysql | [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution](./solutions/Easy/0586-customer-placing-the-largest-number-of-orders/solution.sql) |
-| find-duplicate-subtrees | Find Duplicate Subtrees | Medium | python3 | [Problem](https://leetcode.com/problems/find-duplicate-subtrees/) | [Solution](./solutions/Medium/0652-find-duplicate-subtrees/solution.py) |
-| find-k-closest-elements | Find K Closest Elements | Medium | python3 | [Problem](https://leetcode.com/problems/find-k-closest-elements/) | [Solution](./solutions/Medium/0658-find-k-closest-elements/solution.py) |
-| game-play-analysis-i | 511. Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |
 | fraction-addition-and-subtraction | 592. Fraction Addition And Subtraction | Medium | python3 | [Problem](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [Solution](./solutions/Medium/0592-fraction-addition-and-subtraction/solution.py) |
 | valid-square | 593. Valid Square | Medium | python3 | [Problem](https://leetcode.com/problems/valid-square/) | [Solution](./solutions/Medium/0593-valid-square/solution.py) |
 | big-countries | 595. Big Countries | Easy | mysql | [Problem](https://leetcode.com/problems/big-countries/) | [Solution](./solutions/Easy/0595-big-countries/solution.sql) |
-| classes-with-at-least-5-students | 596. Classes With At Least 5 Students | Easy | mysql | [Problem](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Solution](./solutions/Easy/0596-classes-with-at-least-5-students/solution.sql) |
 | friend-requests-ii-who-has-the-most-friends | 602. Friend Requests Ii Who Has The Most Friends | Medium | mysql | [Problem](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | [Solution](./solutions/Medium/0602-friend-requests-ii-who-has-the-most-friends/solution.sql) |
 | construct-string-from-binary-tree | 606. Construct String From Binary Tree | Medium | python3 | [Problem](https://leetcode.com/problems/construct-string-from-binary-tree/) | [Solution](./solutions/Medium/0606-construct-string-from-binary-tree/solution.py) |
 | tree-node | 608. Tree Node | Medium | mysql | [Problem](https://leetcode.com/problems/tree-node/) | [Solution](./solutions/Medium/0608-tree-node/solution.sql) |
 | find-duplicate-file-in-system | 609. Find Duplicate File In System | Medium | python3 | [Problem](https://leetcode.com/problems/find-duplicate-file-in-system/) | [Solution](./solutions/Medium/0609-find-duplicate-file-in-system/solution.py) |
 | valid-triangle-number | 611. Valid Triangle Number | Medium | python3 | [Problem](https://leetcode.com/problems/valid-triangle-number/) | [Solution](./solutions/Medium/0611-valid-triangle-number/solution.py) |
+| biggest-single-number | 619. Biggest Single Number | Easy | mysql | [Problem](https://leetcode.com/problems/biggest-single-number/) | [Solution](./solutions/Easy/0619-biggest-single-number/solution.sql) |
 | task-scheduler | 621. Task Scheduler | Medium | python3 | [Problem](https://leetcode.com/problems/task-scheduler/) | [Solution](./solutions/Medium/0621-task-scheduler/solution.py) |
 | design-circular-queue | 622. Design Circular Queue | Medium | python3 | [Problem](https://leetcode.com/problems/design-circular-queue/) | [Solution](./solutions/Medium/0622-design-circular-queue/solution.py) |
 | add-one-row-to-tree | 623. Add One Row To Tree | Medium | python3 | [Problem](https://leetcode.com/problems/add-one-row-to-tree/) | [Solution](./solutions/Medium/0623-add-one-row-to-tree/solution.py) |
@@ -220,11 +215,15 @@
 | shopping-offers | 638. Shopping Offers | Medium | python3 | [Problem](https://leetcode.com/problems/shopping-offers/) | [Solution](./solutions/Medium/0638-shopping-offers/solution.py) |
 | solve-the-equation | 640. Solve The Equation | Medium | python3 | [Problem](https://leetcode.com/problems/solve-the-equation/) | [Solution](./solutions/Medium/0640-solve-the-equation/solution.py) |
 | design-circular-deque | 641. Design Circular Deque | Medium | python3 | [Problem](https://leetcode.com/problems/design-circular-deque/) | [Solution](./solutions/Medium/0641-design-circular-deque/solution.py) |
-| flipping-an-image | 832. Flipping An Image | Easy | python3 | [Problem](https://leetcode.com/problems/flipping-an-image/) | [Solution](./solutions/Easy/0832-flipping-an-image/solution.py) |
 | image-overlap | 835. Image Overlap | Medium | python3 | [Problem](https://leetcode.com/problems/image-overlap/) | [Solution](./solutions/Medium/0835-image-overlap/solution.py) |
 | buddy-strings | 859. Buddy Strings | Easy | python3 | [Problem](https://leetcode.com/problems/buddy-strings/) | [Solution](./solutions/Easy/0859-buddy-strings/solution.py) |
 | customers-who-bought-all-products | 1045. Customers Who Bought All Products | Medium | mysql | [Problem](https://leetcode.com/problems/customers-who-bought-all-products/) | [Solution](./solutions/Medium/1045-customers-who-bought-all-products/solution.sql) |
-| actors-and-directors-who-cooperated-at-least-three-times | 1050. Actors And Directors Who Cooperated At Least Three Times | Easy | mysql | [Problem](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [Solution](./solutions/Easy/1050-actors-and-directors-who-cooperated-at-least-three-times/solution.sql) |
+| find-duplicate-subtrees | Find Duplicate Subtrees | Medium | python3 | [Problem](https://leetcode.com/problems/find-duplicate-subtrees/) | [Solution](./solutions/Medium/0652-find-duplicate-subtrees/solution.py) |
+| find-k-closest-elements | Find K Closest Elements | Medium | python3 | [Problem](https://leetcode.com/problems/find-k-closest-elements/) | [Solution](./solutions/Medium/0658-find-k-closest-elements/solution.py) |
+| goat-latin | 824. Goat Latin | Easy | python3 | [Problem](https://leetcode.com/problems/goat-latin/) | [Solution](./solutions/Easy/0824-goat-latin/solution.py) |
+| product-sales-analysis-iii | 1070. Product Sales Analysis Iii | Medium | mysql | [Problem](https://leetcode.com/problems/product-sales-analysis-iii/) | [Solution](./solutions/Medium/1070-product-sales-analysis-iii/solution.sql) |
+| article-views-i | 1148. Article Views I | Easy | mysql | [Problem](https://leetcode.com/problems/article-views-i/) | [Solution](./solutions/Easy/1148-article-views-i/solution.sql) |
+| market-analysis-i | 1158. Market Analysis I | Medium | mysql | [Problem](https://leetcode.com/problems/market-analysis-i/) | [Solution](./solutions/Medium/1158-market-analysis-i/solution.sql) |
 | maximum-binary-tree | Maximum Binary Tree | Medium | python3 | [Problem](https://leetcode.com/problems/maximum-binary-tree/) | [Solution](./solutions/Medium/0654-maximum-binary-tree/solution.py) |
 | maximum-length-of-pair-chain | Maximum Length of Pair Chain | Medium | python3 | [Problem](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [Solution](./solutions/Medium/0646-maximum-length-of-pair-chain/solution.py) |
 | number-of-1-bits | 191. Number Of 1 Bits | Easy | python3 | [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./solutions/Easy/0191-number-of-1-bits/solution.py) |
@@ -252,12 +251,13 @@
 | all-oone-data-structure | 432. All Oone Data Structure | Hard | python3 | [Problem](https://leetcode.com/problems/all-oone-data-structure/) | [Solution](./solutions/Hard/0432-all-oone-data-structure/solution.py) |
 | k-th-smallest-in-lexicographical-order | 440. K Th Smallest In Lexicographical Order | Hard | python3 | [Problem](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | [Solution](./solutions/Hard/0440-k-th-smallest-in-lexicographical-order/solution.py) |
 | arithmetic-slices-ii-subsequence | 446. Arithmetic Slices Ii Subsequence | Hard | python3 | [Problem](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Solution](./solutions/Hard/0446-arithmetic-slices-ii-subsequence/solution.py) |
-| biggest-single-number | 619. Biggest Single Number | Easy | mysql | [Problem](https://leetcode.com/problems/biggest-single-number/) | [Solution](./solutions/Easy/0619-biggest-single-number/solution.sql) |
 | not-boring-movies | 620. Not Boring Movies | Easy | mysql | [Problem](https://leetcode.com/problems/not-boring-movies/) | [Solution](./solutions/Easy/0620-not-boring-movies/solution.sql) |
+| minimum-distance-between-bst-nodes | 783. Minimum Distance Between Bst Nodes | Easy | python3 | [Problem](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Solution](./solutions/Easy/0783-minimum-distance-between-bst-nodes/solution.py) |
+| number-of-lines-to-write-string | 806. Number Of Lines To Write String | Easy | python3 | [Problem](https://leetcode.com/problems/number-of-lines-to-write-string/) | [Solution](./solutions/Easy/0806-number-of-lines-to-write-string/solution.py) |
+| most-common-word | 819. Most Common Word | Easy | python3 | [Problem](https://leetcode.com/problems/most-common-word/) | [Solution](./solutions/Easy/0819-most-common-word/solution.py) |
+| flipping-an-image | 832. Flipping An Image | Easy | python3 | [Problem](https://leetcode.com/problems/flipping-an-image/) | [Solution](./solutions/Easy/0832-flipping-an-image/solution.py) |
+| lemonade-change | 860. Lemonade Change | Easy | python3 | [Problem](https://leetcode.com/problems/lemonade-change/) | [Solution](./solutions/Easy/0860-lemonade-change/solution.py) |
 | n-th-tribonacci-number | 1137. N Th Tribonacci Number | Easy | python3 | [Problem](https://leetcode.com/problems/n-th-tribonacci-number/) | [Solution](./solutions/Easy/1137-n-th-tribonacci-number/solution.py) |
-| article-views-i | 1148. Article Views I | Easy | mysql | [Problem](https://leetcode.com/problems/article-views-i/) | [Solution](./solutions/Easy/1148-article-views-i/solution.sql) |
-| average-selling-price | 1251. Average Selling Price | Easy | mysql | [Problem](https://leetcode.com/problems/average-selling-price/) | [Solution](./solutions/Easy/1251-average-selling-price/solution.sql) |
-| list-the-products-ordered-in-a-period | 1327. List The Products Ordered In A Period | Easy | mysql | [Problem](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | [Solution](./solutions/Easy/1327-list-the-products-ordered-in-a-period/solution.sql) |
 | palindromic-substrings | Palindromic Substrings | Medium | python3 | [Problem](https://leetcode.com/problems/palindromic-substrings/) | [Solution](./solutions/Medium/0647-palindromic-substrings/solution.py) |
 | poor-pigs | 458. Poor Pigs | Hard | python3 | [Problem](https://leetcode.com/problems/poor-pigs/) | [Solution](./solutions/Hard/0458-poor-pigs/solution.py) |
 | print-binary-tree | Print Binary Tree | Medium | python3 | [Problem](https://leetcode.com/problems/print-binary-tree/) | [Solution](./solutions/Medium/0655-print-binary-tree/solution.py) |
@@ -270,17 +270,27 @@
 | zuma-game | 488. Zuma Game | Hard | python3 | [Problem](https://leetcode.com/problems/zuma-game/) | [Solution](./solutions/Hard/0488-zuma-game/solution.py) |
 | reverse-pairs | 493. Reverse Pairs | Hard | python3 | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution](./solutions/Hard/0493-reverse-pairs/solution.py) |
 | ipo | 502. Ipo | Hard | python3 | [Problem](https://leetcode.com/problems/ipo/) | [Solution](./solutions/Hard/0502-ipo/solution.py) |
+| game-play-analysis-i | 511. Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |
 | freedom-trail | 514. Freedom Trail | Hard | python3 | [Problem](https://leetcode.com/problems/freedom-trail/) | [Solution](./solutions/Hard/0514-freedom-trail/solution.py) |
 | super-washing-machines | 517. Super Washing Machines | Hard | python3 | [Problem](https://leetcode.com/problems/super-washing-machines/) | [Solution](./solutions/Hard/0517-super-washing-machines/solution.py) |
 | remove-boxes | 546. Remove Boxes | Hard | python3 | [Problem](https://leetcode.com/problems/remove-boxes/) | [Solution](./solutions/Hard/0546-remove-boxes/solution.py) |
 | student-attendance-record-ii | 552. Student Attendance Record Ii | Hard | python3 | [Problem](https://leetcode.com/problems/student-attendance-record-ii/) | [Solution](./solutions/Hard/0552-student-attendance-record-ii/solution.py) |
 | find-the-closest-palindrome | 564. Find The Closest Palindrome | Hard | python3 | [Problem](https://leetcode.com/problems/find-the-closest-palindrome/) | [Solution](./solutions/Hard/0564-find-the-closest-palindrome/solution.py) |
+| employee-bonus | 577. Employee Bonus | Easy | mysql | [Problem](https://leetcode.com/problems/employee-bonus/) | [Solution](./solutions/Easy/0577-employee-bonus/solution.sql) |
+| customer-placing-the-largest-number-of-orders | 586. Customer Placing The Largest Number Of Orders | Easy | mysql | [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution](./solutions/Easy/0586-customer-placing-the-largest-number-of-orders/solution.sql) |
 | erect-the-fence | 587. Erect The Fence | Hard | python3 | [Problem](https://leetcode.com/problems/erect-the-fence/) | [Solution](./solutions/Hard/0587-erect-the-fence/solution.py) |
 | tag-validator | 591. Tag Validator | Hard | python3 | [Problem](https://leetcode.com/problems/tag-validator/) | [Solution](./solutions/Hard/0591-tag-validator/solution.py) |
+| classes-with-at-least-5-students | 596. Classes With At Least 5 Students | Easy | mysql | [Problem](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Solution](./solutions/Easy/0596-classes-with-at-least-5-students/solution.sql) |
 | non-negative-integers-without-consecutive-ones | 600. Non Negative Integers Without Consecutive Ones | Hard | python3 | [Problem](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) | [Solution](./solutions/Hard/0600-non-negative-integers-without-consecutive-ones/solution.py) |
 | human-traffic-of-stadium | 601. Human Traffic Of Stadium | Hard | mysql | [Problem](https://leetcode.com/problems/human-traffic-of-stadium/) | [Solution](./solutions/Hard/0601-human-traffic-of-stadium/solution.sql) |
+| product-sales-analysis-i | 1068. Product Sales Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/product-sales-analysis-i/) | [Solution](./solutions/Easy/1068-product-sales-analysis-i/solution.sql) |
+| project-employees-i | 1075. Project Employees I | Easy | mysql | [Problem](https://leetcode.com/problems/project-employees-i/) | [Solution](./solutions/Easy/1075-project-employees-i/solution.sql) |
 | replace-words | Replace Words | Medium | python3 | [Problem](https://leetcode.com/problems/replace-words/) | [Solution](./solutions/Medium/0648-replace-words/solution.py) |
 | sales-person | 607. Sales Person | Easy | mysql | [Problem](https://leetcode.com/problems/sales-person/) | [Solution](./solutions/Easy/0607-sales-person/solution.sql) |
+| sales-analysis-iii | 1084. Sales Analysis Iii | Easy | mysql | [Problem](https://leetcode.com/problems/sales-analysis-iii/) | [Solution](./solutions/Easy/1084-sales-analysis-iii/solution.sql) |
+| reformat-department-table | 1179. Reformat Department Table | Easy | mysql | [Problem](https://leetcode.com/problems/reformat-department-table/) | [Solution](./solutions/Easy/1179-reformat-department-table/solution.sql) |
+| average-selling-price | 1251. Average Selling Price | Easy | mysql | [Problem](https://leetcode.com/problems/average-selling-price/) | [Solution](./solutions/Easy/1251-average-selling-price/solution.sql) |
+| split-array-into-consecutive-subsequences | Split Array into Consecutive Subsequences | Medium | python3 | [Problem](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [Solution](./solutions/Medium/0659-split-array-into-consecutive-subsequences/solution.py) |
 | triangle-judgement | 610. Triangle Judgement | Easy | mysql | [Problem](https://leetcode.com/problems/triangle-judgement/) | [Solution](./solutions/Easy/0610-triangle-judgement/solution.sql) |
 | swap-sex-of-employees | 627. Swap Sex Of Employees | Easy | mysql | [Problem](https://leetcode.com/problems/swap-sex-of-employees/) | [Solution](./solutions/Easy/0627-swap-sex-of-employees/solution.sql) |
 | k-inverse-pairs-array | 629. K Inverse Pairs Array | Hard | python3 | [Problem](https://leetcode.com/problems/k-inverse-pairs-array/) | [Solution](./solutions/Hard/0629-k-inverse-pairs-array/solution.py) |
@@ -288,30 +298,21 @@
 | smallest-range-covering-elements-from-k-lists | 632. Smallest Range Covering Elements From K Lists | Hard | python3 | [Problem](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [Solution](./solutions/Hard/0632-smallest-range-covering-elements-from-k-lists/solution.py) |
 | decode-ways-ii | 639. Decode Ways Ii | Hard | python3 | [Problem](https://leetcode.com/problems/decode-ways-ii/) | [Solution](./solutions/Hard/0639-decode-ways-ii/solution.py) |
 | toeplitz-matrix | 766. Toeplitz Matrix | Easy | python3 | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.py) |
-| minimum-distance-between-bst-nodes | 783. Minimum Distance Between Bst Nodes | Easy | python3 | [Problem](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Solution](./solutions/Easy/0783-minimum-distance-between-bst-nodes/solution.py) |
 | unique-morse-code-words | 804. Unique Morse Code Words | Easy | python3 | [Problem](https://leetcode.com/problems/unique-morse-code-words/) | [Solution](./solutions/Easy/0804-unique-morse-code-words/solution.py) |
-| number-of-lines-to-write-string | 806. Number Of Lines To Write String | Easy | python3 | [Problem](https://leetcode.com/problems/number-of-lines-to-write-string/) | [Solution](./solutions/Easy/0806-number-of-lines-to-write-string/solution.py) |
-| most-common-word | 819. Most Common Word | Easy | python3 | [Problem](https://leetcode.com/problems/most-common-word/) | [Solution](./solutions/Easy/0819-most-common-word/solution.py) |
 | shortest-distance-to-a-character | 821. Shortest Distance To A Character | Easy | python3 | [Problem](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Solution](./solutions/Easy/0821-shortest-distance-to-a-character/solution.py) |
-| goat-latin | 824. Goat Latin | Easy | python3 | [Problem](https://leetcode.com/problems/goat-latin/) | [Solution](./solutions/Easy/0824-goat-latin/solution.py) |
 | positions-of-large-groups | 830. Positions Of Large Groups | Easy | python3 | [Problem](https://leetcode.com/problems/positions-of-large-groups/) | [Solution](./solutions/Easy/0830-positions-of-large-groups/solution.py) |
 | rectangle-overlap | 836. Rectangle Overlap | Easy | python3 | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.py) |
-| lemonade-change | 860. Lemonade Change | Easy | python3 | [Problem](https://leetcode.com/problems/lemonade-change/) | [Solution](./solutions/Easy/0860-lemonade-change/solution.py) |
 | distinct-subsequences-ii | 940. Distinct Subsequences Ii | Hard | python3 | [Problem](https://leetcode.com/problems/distinct-subsequences-ii/) | [Solution](./solutions/Hard/0940-distinct-subsequences-ii/solution.py) |
-| product-sales-analysis-i | 1068. Product Sales Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/product-sales-analysis-i/) | [Solution](./solutions/Easy/1068-product-sales-analysis-i/solution.sql) |
-| product-sales-analysis-iii | 1070. Product Sales Analysis Iii | Medium | mysql | [Problem](https://leetcode.com/problems/product-sales-analysis-iii/) | [Solution](./solutions/Medium/1070-product-sales-analysis-iii/solution.sql) |
-| project-employees-i | 1075. Project Employees I | Easy | mysql | [Problem](https://leetcode.com/problems/project-employees-i/) | [Solution](./solutions/Easy/1075-project-employees-i/solution.sql) |
-| sales-analysis-iii | 1084. Sales Analysis Iii | Easy | mysql | [Problem](https://leetcode.com/problems/sales-analysis-iii/) | [Solution](./solutions/Easy/1084-sales-analysis-iii/solution.sql) |
+| actors-and-directors-who-cooperated-at-least-three-times | 1050. Actors And Directors Who Cooperated At Least Three Times | Easy | mysql | [Problem](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [Solution](./solutions/Easy/1050-actors-and-directors-who-cooperated-at-least-three-times/solution.sql) |
 | user-activity-for-the-past-30-days-i | 1141. User Activity For The Past 30 Days I | Easy | mysql | [Problem](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [Solution](./solutions/Easy/1141-user-activity-for-the-past-30-days-i/solution.sql) |
-| market-analysis-i | 1158. Market Analysis I | Medium | mysql | [Problem](https://leetcode.com/problems/market-analysis-i/) | [Solution](./solutions/Medium/1158-market-analysis-i/solution.sql) |
 | product-price-at-a-given-date | 1164. Product Price At A Given Date | Medium | mysql | [Problem](https://leetcode.com/problems/product-price-at-a-given-date/) | [Solution](./solutions/Medium/1164-product-price-at-a-given-date/solution.sql) |
 | immediate-food-delivery-ii | 1174. Immediate Food Delivery Ii | Medium | mysql | [Problem](https://leetcode.com/problems/immediate-food-delivery-ii/) | [Solution](./solutions/Medium/1174-immediate-food-delivery-ii/solution.sql) |
-| reformat-department-table | 1179. Reformat Department Table | Easy | mysql | [Problem](https://leetcode.com/problems/reformat-department-table/) | [Solution](./solutions/Easy/1179-reformat-department-table/solution.sql) |
 | monthly-transactions-i | 1193. Monthly Transactions I | Medium | mysql | [Problem](https://leetcode.com/problems/monthly-transactions-i/) | [Solution](./solutions/Medium/1193-monthly-transactions-i/solution.sql) |
 | last-person-to-fit-in-the-bus | 1204. Last Person To Fit In The Bus | Medium | mysql | [Problem](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) | [Solution](./solutions/Medium/1204-last-person-to-fit-in-the-bus/solution.sql) |
 | queries-quality-and-percentage | 1211. Queries Quality And Percentage | Easy | mysql | [Problem](https://leetcode.com/problems/queries-quality-and-percentage/) | [Solution](./solutions/Easy/1211-queries-quality-and-percentage/solution.sql) |
 | students-and-examinations | 1280. Students And Examinations | Easy | mysql | [Problem](https://leetcode.com/problems/students-and-examinations/) | [Solution](./solutions/Easy/1280-students-and-examinations/solution.sql) |
 | restaurant-growth | 1321. Restaurant Growth | Medium | mysql | [Problem](https://leetcode.com/problems/restaurant-growth/) | [Solution](./solutions/Medium/1321-restaurant-growth/solution.sql) |
+| list-the-products-ordered-in-a-period | 1327. List The Products Ordered In A Period | Easy | mysql | [Problem](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | [Solution](./solutions/Easy/1327-list-the-products-ordered-in-a-period/solution.sql) |
 | movie-rating | 1341. Movie Rating | Medium | mysql | [Problem](https://leetcode.com/problems/movie-rating/) | [Solution](./solutions/Medium/1341-movie-rating/solution.sql) |
 | longest-happy-prefix | 1392. Longest Happy Prefix | Hard | python3 | [Problem](https://leetcode.com/problems/longest-happy-prefix/) | [Solution](./solutions/Hard/1392-longest-happy-prefix/solution.py) |
 | capital-gainloss | 1393. Capital Gainloss | Medium | mysql | [Problem](https://leetcode.com/problems/capital-gainloss/) | [Solution](./solutions/Medium/1393-capital-gainloss/solution.sql) |
