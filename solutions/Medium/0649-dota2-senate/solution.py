@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : String, Greedy, Queue
 # Link     : https://leetcode.com/problems/dota2-senate/
-# Runtime  : 8 ms (beats 92%)
-# Memory   : 19464000 (beats 76%)
+# Runtime  : 9 ms (beats 89%)
+# Memory   : 19744000 (beats 16%)
 # Language : python3
 # Copyright: (c) 2026 karthi206. All rights reserved.
 # Synced by: leetie
